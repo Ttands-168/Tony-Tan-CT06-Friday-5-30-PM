@@ -36,3 +36,4 @@ print(colours_of_the_rainbow)
 
 # Real code task 4
 test1 = float(input("What is your WA1 score?"))
+test2 = float(input())
