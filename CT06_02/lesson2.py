@@ -14,7 +14,8 @@ print(colours_of_the_rainbow)
 #     counter = counter += 10
 
 say("How old are you?")
-
+if age < 18:
+    say("")
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
