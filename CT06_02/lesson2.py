@@ -29,3 +29,6 @@ print(colours_of_the_rainbow)
 
 # Pseudocode 4
 
+# As the robot checks students scoring, you calculate the test score.
+# If test score for test 1 >= 10 units, and test 2 and 3 >= 20 units, then it will be a pass.
+# Else, it is a fail.
