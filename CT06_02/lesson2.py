@@ -31,3 +31,4 @@ print(colours_of_the_rainbow)
 
 # As the robot checks students scoring, you calculate the test score.
 # Compute the test score for test 1 = 0.2 x test score
+# Compute the test score for test 2 = 0.4 x test score
