@@ -37,6 +37,6 @@ print(colours_of_the_rainbow)
 # Real code task 4
 test1 = float(input("What is your WA1 score?"))
 test2 = float(input("What is your WA2 score?"))
-test3 = (input("What is your WA3 score?"))
+test3 = float(input("What is your WA3 score?"))
 final_score = (0.2*test1 + 0.4*test2 + 0.4*test3)
-print("Your final score is" + final_score + ".")
+print("Your final score is" + str(final_score) + ".")
