@@ -23,7 +23,7 @@ print(colours_of_the_rainbow)
 
 # The robot has to investigate the code "B ueno celeste ka mustavatufa"
 # If the code user put is "B ueno celeste ka mustavatufa", then let him enter the house. Otherwise, lock it.
-
+# Except Gregory.
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
