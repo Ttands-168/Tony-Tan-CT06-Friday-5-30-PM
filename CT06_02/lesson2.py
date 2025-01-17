@@ -3,6 +3,7 @@ print("Hello from lesson 2")
 colours_of_the_rainbow = ["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"]
 print(colours_of_the_rainbow)
 
+num1 = float(input())
 # 10.times:
 #     say "Hey"
 #     step 10
