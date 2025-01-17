@@ -19,14 +19,14 @@ print(colours_of_the_rainbow)
 # else:
 #     say("You are eligible.")
 
-# As the robot moves to the material of the item, the paper is recycled into the wood bin, plastic in plastic bin, and aluminium in metal bin.
+
 
 # The robot has to investigate the code "B ueno celeste ka mustavatufa"
 # If the code user put is "B ueno celeste ka mustavatufa", then let him enter the house. Otherwise, lock it.
 # Except Gregory.
 
 ######## Write the pseudocode in comments for task 2 here
-# Using comments, translate the code shown on screen into pseudocode.
+# As the robot moves to the material of the item, the paper is recycled into the wood bin, plastic in plastic bin, and aluminium in metal bin.
 
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
