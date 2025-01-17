@@ -19,7 +19,7 @@ print(colours_of_the_rainbow)
 # else:
 #     say("You are eligible.")
 
-# 
+# As the robot moves to the material of the item, the paper is recycled into the wood bin, plastic in plastic bin
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
