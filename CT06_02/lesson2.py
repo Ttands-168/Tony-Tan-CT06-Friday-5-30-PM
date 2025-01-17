@@ -21,7 +21,7 @@ print(colours_of_the_rainbow)
 
 # As the robot moves to the material of the item, the paper is recycled into the wood bin, plastic in plastic bin, and aluminium in metal bin.
 
-# The robot has to investigate the code ""
+# The robot has to investigate the code "B ueno celeste "
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
