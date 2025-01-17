@@ -34,3 +34,5 @@ print(colours_of_the_rainbow)
 # Compute the test score for test 2 = 0.4 x test score
 # Compute the test score for test 3 = 0.4 x test score
 
+# Real code task 4
+test1 = 
