@@ -4,7 +4,8 @@ colours_of_the_rainbow = ["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", 
 print(colours_of_the_rainbow)
 
 num1 = float(input("Gimme number for 1st."))
-num2 = float()
+num2 = float(input("Gimme number for 2nd."))
+
 # 10.times:
 #     say "Hey"
 #     step 10
