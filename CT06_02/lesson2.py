@@ -30,4 +30,4 @@ print(colours_of_the_rainbow)
 # Pseudocode 4
 
 # As the robot checks students scoring, you calculate the test score.
-# Compute the test score for test 1 = 
+# Compute the test score for test 1 = 0.2 x test score
