@@ -20,3 +20,4 @@ division1 = print(str(APT1 / APT2))
 mass = 58
 height = 171
 BMI = ((mass) / (height/100) ** 2)
+print(str(BMI))
