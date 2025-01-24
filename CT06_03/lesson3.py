@@ -12,8 +12,9 @@ print(age)
 APT1 = 16
 APT2 = 12
 
-addition = print(str(APT1 + APT2))
-subtraction = print(str(APT1 - APT2))
-multiplication = print(str(APT1 * APT2))
-division = print(str(APT1 / APT2))
+addition1 = print(str(APT1 + APT2))
+subtraction1 = print(str(APT1 - APT2))
+multiplication1 = print(str(APT1 * APT2))
+division1 = print(str(APT1 / APT2))
 
+a
