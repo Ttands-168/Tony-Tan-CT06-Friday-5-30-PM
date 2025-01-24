@@ -21,3 +21,5 @@ mass = 58
 height = 171
 BMI = ((mass) / (height/100) ** 2)
 print(str(BMI))
+
+print
