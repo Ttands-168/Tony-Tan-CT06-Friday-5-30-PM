@@ -10,4 +10,4 @@ age = 15
 print(age)
 
 "x" = 20
-print()
+print("x")
