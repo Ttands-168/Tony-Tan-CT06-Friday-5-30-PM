@@ -27,3 +27,4 @@ print((14 + 15)*3 - (72/3))
 weekly_allowance = 32
 yearly_allowance = weekly_allowance * 36
 ten_year_allowance = yearly_allowance * 10
+print(ten_year_allowance)
