@@ -22,4 +22,4 @@ height = 171
 BMI = ((mass) / (height/100) ** 2)
 print(str(BMI))
 
-print((3+))
+print((14 + 15)*3)
