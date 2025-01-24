@@ -9,4 +9,4 @@ print("The average English score in Group 1 is " + str((Aidan_Sha + Ethan_Tian +
 age = 15
 print(age)
 
-k
+APT1 = 3
