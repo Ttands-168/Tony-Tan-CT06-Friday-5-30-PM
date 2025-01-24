@@ -4,4 +4,4 @@ Keefe_Foo = 53.91
 Jared_Ooi = 63.44
 Ethan_Khor = 53.74
 
-print((Aidan_Sha + Ethan_Tian + Ethan_Khor + Keefe_Foo + Jared_Ooi) / 5)
+print("The average English score is " + (Aidan_Sha + Ethan_Tian + Ethan_Khor + Keefe_Foo + Jared_Ooi) / 5)
