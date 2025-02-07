@@ -25,3 +25,10 @@ Name2 = input("What is your name? ")
 Hobby2 = input("What do you like doing in your free time? ")
 Dream_Vacation2 = input("If you have a 1 year paid leave, where do you want to go? ")
 print("Hello " + Name2 + "! I also like " + Hobby2 + " and I actually want to go to " + Dream_Vacation2 + " too!")
+
+Age3 = float(input("How old are you currently? "))
+Age2 = Age3 + 50
+Age2 = ("You will be " + Age2 + " years old in 2075.")
+Number = float(input("Your number is? "))
+Number2 = Number * 2
+print("The enemy will attack " + Number2 + " and 43 at 6:20 PM on February 15, 2025. Be prepared.")
