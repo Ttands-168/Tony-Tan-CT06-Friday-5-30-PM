@@ -16,4 +16,4 @@ Smahon_Loh_money_1_hour_later = Smahon_Loh_money - customer3
 Smahon_Loh_money_1_year_later = Smahon_Loh_money_1_hour_later * 1.0425
 print("You will have $" + str(Smahon_Loh_money_1_year_later) + " next year.")
 
-Water1 = input()
+Name1 = input("What is your name?")
