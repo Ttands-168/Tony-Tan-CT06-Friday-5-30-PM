@@ -6,5 +6,5 @@ real_turquoise_plate = 6
 
 customer1 = orange_plate * 3 + yellow_plate * 5 + green_plate * 4
 customer2 = yellow_plate * 2 + cyan_plate * 5
-print("Noor Daanya pays $" + str(customer1) + "for this.")
-print("Khoo Siew Ling pays $" + str(customer2) + )
+print("Noor Daanya pays $" + str(customer1) + " for this.")
+print("Khoo Siew Ling pays $" + str(customer2) + " for this.")
