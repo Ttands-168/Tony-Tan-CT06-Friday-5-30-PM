@@ -17,3 +17,4 @@ Smahon_Loh_money_1_year_later = Smahon_Loh_money_1_hour_later * 1.0425
 print("You will have $" + str(Smahon_Loh_money_1_year_later) + " next year.")
 
 Name1 = input("What is your name?")
+Colour1 = input("Which colour resonates with your personality?")
