@@ -13,5 +13,5 @@ print("Smahon Loh is paying $" + str(customer3) + " to Ms Celeste Loh for this."
 
 Smahon_Loh_money = int(input("Mrs Smahon, how much do you have in your wallet?"))
 Smahon_Loh_money_1_hour_later = Smahon_Loh_money - customer3
-Smahon_Loh_money_1_year_later = customer3 * 1.0425
+Smahon_Loh_money_1_year_later = Smahon_Loh_money_1_hour_later * 1.0425
 
