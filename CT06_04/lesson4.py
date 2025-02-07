@@ -16,12 +16,12 @@ Smahon_Loh_money_1_hour_later = Smahon_Loh_money - customer3
 Smahon_Loh_money_1_year_later = Smahon_Loh_money_1_hour_later * 1.0425
 print("You will have $" + str(Smahon_Loh_money_1_year_later) + " next year.")
 
-Name1 = input("What is your name?")
-Colour1 = input("Which colour resonates with your personality?")
-Age1 = input("How old are you?")
-print("Hello" + Name1 + "! You are" + Age1 + " years old and your colour is" + Colour1 + ".")
+Name1 = input("What is your name? ")
+Colour1 = input("Which colour resonates with your personality? ")
+Age1 = input("How old are you? ")
+print("Hello " + Name1 + "! You are " + Age1 + " years old and your colour is " + Colour1 + ".")
 
-Name2 = input("What is your name?")
-Hobby2 = input("What do you like doing in your free time?")
-Dream_Vacation2 = input("If you have a 1 year paid leave, where do you want to go?")
-print()
+Name2 = input("What is your name? ")
+Hobby2 = input("What do you like doing in your free time? ")
+Dream_Vacation2 = input("If you have a 1 year paid leave, where do you want to go? ")
+print("Hello" + )
