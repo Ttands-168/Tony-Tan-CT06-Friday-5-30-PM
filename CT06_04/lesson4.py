@@ -28,7 +28,14 @@ print("Hello " + Name2 + "! I also like " + Hobby2 + " and I actually want to go
 
 Age3 = float(input("How old are you currently? "))
 Age2 = Age3 + 50
-Age2 = ("You will be " + Age2 + " years old in 2075.")
+Age2 = ("You will be " + str(Age2) + " years old in 2075. 50 years older than your 2025 age, you will die.")
 Number = float(input("Your number is? "))
 Number2 = Number * 2
-print("The enemy will attack " + Number2 + " and 43 at 6:20 PM on February 15, 2025. Be prepared.")
+print("The enemy will attack " + str(Number2) + " and 43 at 6:20 PM on February 15, 2025. Be prepared.")
+birth_year = float(input("What year are you born in?"))
+Age4 = 2025 - birth_year
+print("How I wish I was a baby. But you're back to " + str(Age4) + " years old in 2025.")
+
+Name3 = input("What's your name?")
+Age5 = input("How old are you?")
+print("As your 'hello' " + str(10) + " is a dumbass, you are " + Name3 + " and you are " + Age5 + " years old.")
