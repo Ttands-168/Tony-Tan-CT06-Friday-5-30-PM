@@ -9,4 +9,4 @@ customer2 = yellow_plate * 2 + cyan_plate * 5
 customer3 = orange_plate * 20 + cyan_plate
 print("Noor Daanya is paying $" + str(customer1) + " to Mr Hong Guozhong for this.")
 print("Khoo Siew Ling is paying $" + str(customer2) + " to Mr Huang Jonkin for this.")
-print("Smahon Loh is paying $" + str(cus))
+print("Smahon Loh is paying $" + str(customer3) + " to ")
