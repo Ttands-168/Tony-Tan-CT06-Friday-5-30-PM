@@ -15,3 +15,4 @@ Smahon_Loh_money = int(input("Mrs Smahon, how much do you have in your wallet?")
 Smahon_Loh_money_1_hour_later = Smahon_Loh_money - customer3
 Smahon_Loh_money_1_year_later = Smahon_Loh_money_1_hour_later * 1.0425
 print("You will have $" + str(Smahon_Loh_money_1_year_later) + " next year.")
+
