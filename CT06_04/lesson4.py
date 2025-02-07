@@ -11,4 +11,5 @@ print("Noor Daanya is paying $" + str(customer1) + " to Mr Hong Guozhong for thi
 print("Khoo Siew Ling is paying $" + str(customer2) + " to Mr Huang Jonkin for this.")
 print("Smahon Loh is paying $" + str(customer3) + " to Ms Celeste Loh for this.")
 
-Smahon_Loh = input("Mrs Smahon, how much do you have in your wallet?")
+Smahon_Loh_money = input("Mrs Smahon, how much do you have in your wallet?")
+
