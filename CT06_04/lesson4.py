@@ -24,4 +24,4 @@ print("Hello " + Name1 + "! You are " + Age1 + " years old and your colour is " 
 Name2 = input("What is your name? ")
 Hobby2 = input("What do you like doing in your free time? ")
 Dream_Vacation2 = input("If you have a 1 year paid leave, where do you want to go? ")
-print("Hello " + Name2 + "! I also like " + Hobby2)
+print("Hello " + Name2 + "! I also like " + Hobby2 + "")
