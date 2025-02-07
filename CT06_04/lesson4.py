@@ -22,3 +22,4 @@ Age1 = input("How old are you?")
 print("Hello" + Name1 + "! You are" + Age1 + " years old and your colour is" + Colour1 + ".")
 
 Name2 = input("What is your name?")
+Hobby2 = input("")
