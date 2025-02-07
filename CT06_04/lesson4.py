@@ -12,5 +12,5 @@ print("Khoo Siew Ling is paying $" + str(customer2) + " to Mr Huang Jonkin for t
 print("Smahon Loh is paying $" + str(customer3) + " to Ms Celeste Loh for this.")
 
 Smahon_Loh_money = int(input("Mrs Smahon, how much do you have in your wallet?"))
-Smahon_Loh_money_1_hour_later = Smahon_Loh_money - customer3
+Smahon_Loh_money_1 = Smahon_Loh_money - customer3
 Smahon_Loh_money
