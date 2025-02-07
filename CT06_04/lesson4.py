@@ -23,3 +23,4 @@ print("Hello" + Name1 + "! You are" + Age1 + " years old and your colour is" + C
 
 Name2 = input("What is your name?")
 Hobby2 = input("What do you like doing in your free time?")
+Dream_Vacation
