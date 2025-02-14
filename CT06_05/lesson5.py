@@ -41,3 +41,5 @@ x = 80
 y = 100
 for count in range(x, y):
     print(count)
+
+# Task 6
