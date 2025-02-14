@@ -19,7 +19,7 @@ print("Make America great again!")
 # Task 1
 Jared = "Jared"
 for encouragement in Jared:
-    print("Go for the " + Jared + "!")
+    print("Go for the " + encouragement + "!")
 print("Come on Jared! You can do better than this!")
 
 # Task 2
