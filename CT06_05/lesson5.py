@@ -31,4 +31,6 @@ for i in range(5):
     print("I love ice cream.")
     print("Gimme more!")
 
-#
+# Task 4
+for jurstne in range(50, 0, -1):
+    print
