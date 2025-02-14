@@ -21,3 +21,7 @@ Jared = "Jared"
 for encouragement in Jared:
     print("Go for the " + Jared + "!")
 print("Come on Jared! You can do better than this!")
+
+# Task 2
+for Jared2 in range(1,101):
+    
