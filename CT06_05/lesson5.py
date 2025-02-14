@@ -13,4 +13,4 @@ print("Outside 7.")
 # Type 2
 Trump = "Donald Trump"
 for Rose in Trump:
-    
+    print("")
