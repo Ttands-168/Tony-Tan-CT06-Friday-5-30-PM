@@ -10,6 +10,3 @@ for counterstrike in range(1,6):
     print("Turanika patros kamistan.")
 print("Outside 7.")
 
-# Consequence for talking to Jared and Aidan
-for consequence in range(1,501):
-    print("I will ignore Jared and Aidan and give them some space.")
