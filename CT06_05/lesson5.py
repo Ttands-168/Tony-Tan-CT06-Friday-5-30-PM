@@ -35,3 +35,5 @@ for i in range(5):
 for countdown in range(50, 0, -1):
     print(countdown)
 print("Happy New Year!")
+
+# Task 8
