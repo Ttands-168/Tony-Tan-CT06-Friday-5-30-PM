@@ -39,5 +39,5 @@ print("Happy New Year!")
 # Task 5
 x = 80
 y = 100
-for count in range(num1, num2):
-    print
+for count in range(x, y):
+    print(count)
