@@ -43,4 +43,5 @@ for count in range(x, y):
     print(count)
 
 # Task 6
-for multiple_8 in range(8, 97, *
+for multiple_8 in range(8, 97, 8):
+    print(multiple_8)
