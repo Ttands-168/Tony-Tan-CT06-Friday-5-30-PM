@@ -17,4 +17,6 @@ for Rose in Trump:
 print("Make America great again!")
 
 # Task 1
-Cheer = "Chicken Rice"
+Jared = "Jared"
+for encouragement in Jared:
+    print("Go for the " + Jared)
