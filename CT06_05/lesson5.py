@@ -26,3 +26,5 @@ print("Come on Jared! You can do better than this!")
 for Jared2 in range(1,101):
     print("We are going to eat Chicken Bolognese Pasta as rations for recess.")
 
+# Task 3
+Gareth_Gan = ""
