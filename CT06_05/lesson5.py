@@ -7,4 +7,5 @@ print("Hey" + yourName + ", you are turning " + str(yourAge) + " and " + theMess
 
 # For Loopers
 for counterstrike in range(1,6):
-    print("Turanika patros")
+    print("Turanika patros kamistan.")
+print("Outside 7")
