@@ -17,3 +17,4 @@ for Rose in Trump:
 print("Make America great again!")
 
 # Task 1
+Cheer = "Chicken Rice"
