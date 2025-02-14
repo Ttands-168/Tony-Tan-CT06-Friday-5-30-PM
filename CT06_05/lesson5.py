@@ -6,4 +6,4 @@ theMessage = ("Happy money!")
 print("Hey" + yourName + ", you are turning " + str(yourAge) + " and " + theMessage + ".")
 
 for counterstrike in range(1,6):
-    print()
+    print("")
