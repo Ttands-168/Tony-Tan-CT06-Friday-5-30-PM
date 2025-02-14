@@ -24,4 +24,4 @@ print("Come on Jared! You can do better than this!")
 
 # Task 2
 for Jared2 in range(1,101):
-    print("We are go")
+    print("We are going to eat Chicken Bolognese Pasta for recess during ")
