@@ -32,5 +32,5 @@ for i in range(5):
     print("Gimme more!")
 
 # Task 4
-for jurstne in range(50, 0, -1):
+for countdown in range(50, 0, -1):
     print
