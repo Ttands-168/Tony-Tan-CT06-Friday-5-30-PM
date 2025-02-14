@@ -20,3 +20,4 @@ print("Make America great again!")
 Jared = "Jared"
 for encouragement in Jared:
     print("Go for the " + Jared + "!")
+print("But Eugene ")
