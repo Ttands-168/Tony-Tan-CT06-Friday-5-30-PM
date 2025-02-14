@@ -37,4 +37,3 @@ for countdown in range(50, 0, -1):
 print("Happy New Year!")
 
 # Task 5
-f
