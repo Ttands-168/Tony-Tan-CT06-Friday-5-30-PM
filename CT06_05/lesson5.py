@@ -28,4 +28,5 @@ for Jared2 in range(1,101):
 
 # Task 3
 for i in range(5):
+    print("I love ice cream.")
     
