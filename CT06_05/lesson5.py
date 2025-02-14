@@ -11,3 +11,5 @@ for counterstrike in range(1,6):
 print("Outside 7.")
 
 # Consequence for talking to Jared and Aidan
+for consequence in range(1,501):
+    
