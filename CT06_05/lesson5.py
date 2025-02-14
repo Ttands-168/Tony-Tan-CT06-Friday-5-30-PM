@@ -10,3 +10,5 @@ for counterstrike in range(1,6):
     print("Turanika patros kamistan.")
 print("Outside 7.")
 
+
+Trump = "Donald Trump"
