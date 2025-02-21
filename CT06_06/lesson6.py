@@ -70,6 +70,6 @@ x = 10
 y = x / 2
 
 
-end = "5"
+end = 5
 for i in range(end):
     print(i)
