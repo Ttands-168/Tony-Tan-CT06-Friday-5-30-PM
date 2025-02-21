@@ -9,5 +9,5 @@ if num1 > num2:
     for Russia in range(float(num2), float(num1)):
         print(Russia)
 else:
-    for Russia in range(num1, float(num2)):
+    for Russia in range(float(num1), float(num2)):
         print(Russia)
