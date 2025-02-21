@@ -18,4 +18,3 @@ Geography_Sec3 = int(input("How many students are in your class? "))
 for students in range(1, Geography_Sec3 + 1):
     username = input("What is your name? ")
     test_grade = float(input("What is your score for geography? "))
-
