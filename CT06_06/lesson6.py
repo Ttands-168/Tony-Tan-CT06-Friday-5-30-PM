@@ -59,7 +59,7 @@ number = 10
 print(number - 5)
 
 Repeat = 3
-print("Repeat" * str(repeat_num))
+print(Repeat * str(repeat_num))
 
 
 year = 2023
