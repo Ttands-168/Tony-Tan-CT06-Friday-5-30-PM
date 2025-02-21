@@ -51,25 +51,25 @@ print("The average score for 3E Geography Test is " + str(average_test_grade) + 
 # x = 5
 # print(x)
 
-age = 25
-print(age + 1)
+# age = 25
+# print(age + 1)
 
 
-number = 10
-print(number - 5)
+# number = 10
+# print(number - 5)
 
-Repeat = 3
-repeat_num = 5
-print(Repeat * str(repeat_num))
-
-
-year = 2023
-print("The year is " + str(year))
+# Repeat = 3
+# repeat_num = 5
+# print(Repeat * str(repeat_num))
 
 
-x = 10
-y = x / 2
+# year = 2023
+# print("The year is " + str(year))
 
-end = 5
-for i in range(end):
-    print(i)
+
+# x = 10
+# y = x / 2
+
+# end = 5
+# for i in range(end):
+#     print(i)
