@@ -21,5 +21,5 @@ while tries > 0:
             print("Good job! You got the right answer! The float is " + str(random_float) + ".")
             break
 if tries <= 0:
-print("Game Over!")
-print("The number is " + str(random_float) + ".")
+    print("Game Over!")
+    print("The number is " + str(random_float) + ".")
