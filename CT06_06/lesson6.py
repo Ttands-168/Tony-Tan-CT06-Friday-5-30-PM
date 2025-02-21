@@ -6,7 +6,7 @@ num1 = float(num1)
 num2 = float(num2)
 
 if num1 > num2:
-    for Russia in range(num2, num1):
+    for Russia in range(float(num2), num1):
         print(Russia)
 else:
     for Russia in range(num1, num2):
