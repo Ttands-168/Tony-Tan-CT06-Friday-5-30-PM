@@ -1,2 +1,2 @@
 import random
-random.uniform(0, 38)
+random_float = random.uniform(0, 38)
