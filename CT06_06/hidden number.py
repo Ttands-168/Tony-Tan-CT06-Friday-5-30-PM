@@ -15,7 +15,7 @@ while tries > 0:
             print("This is too large - guess a smaller number.")
             tries = tries - 1
         elif user_input < random_float - 0.25:
-            print("This is too small - guess a smaller number.")
+            print("This is too small - guess a larger number.")
             tries = tries - 1
         else:
             print("Good job! You got the right answer! The float is " + str(random_float) + ".")
