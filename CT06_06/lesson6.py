@@ -21,4 +21,4 @@ for students in range(1, Geography_Sec3 + 1):
     individual_test_grade = float(input("What is your score for geography? "))
     total_test_grade = total_test_grade + individual_test_grade
 average_test_grade = total_test_grade / Geography_Sec3
-print("")
+print("The average score for ")
