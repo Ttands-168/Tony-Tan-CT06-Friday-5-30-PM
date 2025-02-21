@@ -14,4 +14,4 @@
 
 # Geography Test
 
-Geography_Sec3 = input("How many students are in your class?")
+Geography_Sec3 = int(input("How many students are in your class? "))
