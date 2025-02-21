@@ -1,2 +1,2 @@
 import random
-erandom.uniform(0, 38)
+random.uniform(0, 38)
