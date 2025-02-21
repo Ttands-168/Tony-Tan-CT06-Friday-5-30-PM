@@ -59,6 +59,7 @@ number = 10
 print(number - 5)
 
 Repeat = 3
+repeat_num = 5
 print(Repeat * str(repeat_num))
 
 
