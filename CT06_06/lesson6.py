@@ -25,16 +25,17 @@ print("The average score for 3E Geography Test is " + str(average_test_grade) + 
 
 # Debugging
 
-for i in range(3):
-    print("Hello, World!")
+# for i in range(3):
+#     print("Hello, World!")
 
-for i in range(5):
-    print(i)
+# for i in range(5):
+#     print(i)
 
-print("Hello, World!")
+# print("Hello, World!")
 
-x = 5
-if x == 5:
-    print("They are 5!")
+# x = 5
+# if x == 5:
+#     print("They are 5!")
 
-print ("Hello, World!")
+# print ("Hello, World!")
+
