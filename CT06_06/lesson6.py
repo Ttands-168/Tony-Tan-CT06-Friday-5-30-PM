@@ -39,3 +39,16 @@ print("The average score for 3E Geography Test is " + str(average_test_grade) + 
 
 # print ("Hello, World!")
 
+## Task 2: Name Errors
+
+age = 14.5
+print(age)
+
+
+name = "Alice"
+print(name)
+
+x = 5
+print(x)
+
+print("Hello, World!")
