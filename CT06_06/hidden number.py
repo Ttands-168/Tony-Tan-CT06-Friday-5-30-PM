@@ -6,3 +6,5 @@ print("Guess my hidden number.")
 
 tries = 5
 
+while tries > 0:
+    user_input("")
