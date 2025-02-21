@@ -41,14 +41,35 @@ print("The average score for 3E Geography Test is " + str(average_test_grade) + 
 
 ## Task 2: Name Errors
 
-age = 14.5
-print(age)
+# age = 14.5
+# print(age)
 
 
-name = "Alice"
-print(name)
+# name = "Alice"
+# print(name)
 
-x = 5
-print(x)
+# x = 5
+# print(x)
 
-print("Hello, World!")
+age = 25
+print(age + 1)
+
+
+number = 10
+print(number - 5)
+
+repeat_num = 3
+print("Repeat" * str(repeat_num))
+
+
+year = 2023
+print("The year is " + str(year))
+
+
+x = 10
+y = x / 2
+
+
+end = "5"
+for i in range(end):
+    print(i)
