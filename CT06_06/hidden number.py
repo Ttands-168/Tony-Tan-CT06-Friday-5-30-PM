@@ -1,2 +1,2 @@
 import random
-random.randrange
+random.uniform
