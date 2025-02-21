@@ -7,4 +7,6 @@ print("Guess my hidden number.")
 tries = 5
 
 while tries > 0:
-    user_input("What is your number?")
+    user_input = float(input("What is your number?"))
+    if user_input > 38 or user_input < 0:
+        
