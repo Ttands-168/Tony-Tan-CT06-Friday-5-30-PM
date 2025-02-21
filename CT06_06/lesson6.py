@@ -12,3 +12,4 @@ else:
     for Russia in range(num1, num2):
         print(Russia)
 
+# Geography Test
