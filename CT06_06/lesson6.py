@@ -58,7 +58,7 @@ print(age + 1)
 number = 10
 print(number - 5)
 
-repeat_num = 3
+Repeat = 3
 print("Repeat" * str(repeat_num))
 
 
