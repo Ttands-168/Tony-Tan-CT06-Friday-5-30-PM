@@ -26,4 +26,4 @@
 # for k in range(n):
 #     print(message + name_rot)
 
-ubi_ave_4 = int(input(""))
+ubi_ave_4 = int(input("What is the lucky number? "))
