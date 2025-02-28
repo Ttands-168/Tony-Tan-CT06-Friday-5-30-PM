@@ -13,16 +13,17 @@
 # for ubi_ave_3 in range(10, 0, -1):
 #     print(ubi_ave_3)
 
-word = input("What string do you want me to repeat? ")
-repeating = int(input("How many times do you need me to repeat this word. "))
+# word = input("What string do you want me to repeat? ")
+# repeating = int(input("How many times do you need me to repeat this word. "))
 
-for count in range(repeating):
-    print(word)
+# for count in range(repeating):
+#     print(word)
 
-name_rot = input("What is your name? ")
-message = input("What message do you want me to send to you? ")
-n = int(input("How many times do you want me to repeat? "))
+# name_rot = input("What is your name? ")
+# message = input("What message do you want me to send to you? ")
+# n = int(input("How many times do you want me to repeat? "))
 
-for k in range(n):
-    print(message + name_rot)
+# for k in range(n):
+#     print(message + name_rot)
 
+ubi_ave_4 = int(input(""))
