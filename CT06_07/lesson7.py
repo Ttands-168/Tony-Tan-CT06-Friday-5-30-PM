@@ -29,3 +29,4 @@
 ubi_ave_4 = int(input("What is the lucky number? "))
 ubi_ave_5 = int(input("Sup?"))
 ubi_ave_6 = int(input("Yoo hoo!"))
+ubi_ave_7 = int(input("Again"))
