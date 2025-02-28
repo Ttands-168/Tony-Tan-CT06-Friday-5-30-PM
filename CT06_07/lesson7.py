@@ -6,5 +6,6 @@
 # student_name = "Alex"
 # print("Average score for " + student_name + " is: " + str(average_score))
 
-for ubi in range(1, 11):
-    
+for ubi_ave_1 in range(1, 11):
+    print(ubi)
+for ubi_ave_2 in range(2, 21, 2)
