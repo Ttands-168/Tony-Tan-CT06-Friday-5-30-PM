@@ -11,4 +11,4 @@ for ubi_ave_1 in range(1, 11):
 for ubi_ave_2 in range(2, 21, 2):
     print(ubi_ave_2)
 for ubi_ave_3 in range(10, 0.5, -1):
-    print(ub)
+    print(ubi_ave_3)
