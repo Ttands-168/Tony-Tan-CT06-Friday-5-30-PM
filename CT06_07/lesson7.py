@@ -28,5 +28,5 @@
 
 ubi_ave_4 = int(input("What is the lucky number? "))
 
-for canout in range(5):
+for ubi_ave_4 in range(1,6):
     ubi_ave_4
