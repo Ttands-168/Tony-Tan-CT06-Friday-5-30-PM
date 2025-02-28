@@ -14,4 +14,4 @@
 #     print(ubi_ave_3)
 
 word = input("What string do you want me to repeat?")
-repeating = int
+repeating = int(input("How many times do you need me to repeat this word."))
