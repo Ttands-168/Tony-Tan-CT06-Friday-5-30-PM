@@ -20,5 +20,8 @@ for count in range(repeating):
     print(word)
 
 name_rot = input("What is your name? ")
-message = input("What message ")
+message = input("What message do you want me to send to you?")
 n = int(input("How many times do you want me to repeat?"))
+
+for k in range(n):
+    print()
