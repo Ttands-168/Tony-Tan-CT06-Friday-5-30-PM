@@ -27,3 +27,4 @@
 #     print(message + name_rot)
 
 ubi_ave_4 = int(input("What is the lucky number? "))
+ubi_ave_5 = int(input("S"))
