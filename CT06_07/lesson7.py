@@ -20,3 +20,4 @@ for count in range(repeating):
     print(word)
 
 name_rot = input("What is your name? ")
+n = int(input("How many times "))
