@@ -13,3 +13,4 @@
 # for ubi_ave_3 in range(10, 0, -1):
 #     print(ubi_ave_3)
 
+word = input("What ")
