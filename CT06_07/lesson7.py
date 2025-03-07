@@ -26,7 +26,10 @@
 # for k in range(n):
 #     print(message + name_rot)
 
-ubi_ave_4 = int(input("What is the lucky number? "))
+counat = 0
 
-for ubi_ave_4 in range(1,6):
-    
+for iowa in range(1,6):
+    ubi_ave_4 = int(input("What is the lucky number " + str(iowa) + ". "))
+    counat = counat + ubi_ave_4
+print(counat)
+
