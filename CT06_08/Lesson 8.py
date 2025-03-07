@@ -1,3 +1,3 @@
-product = 0
+product = 1
 for i in range(5):
-    input("")
+    input("What number")
