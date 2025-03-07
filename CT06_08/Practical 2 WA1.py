@@ -3,3 +3,4 @@ a = int(input("Find the value of a."))
 # Get the stop value
 b = int(input("Find the value of b."))
 # Get the increment value
+c = int(input("Find the value of c."))
