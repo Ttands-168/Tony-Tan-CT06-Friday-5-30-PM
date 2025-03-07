@@ -8,4 +8,4 @@ c = int(input("Find the value of c."))
 if c < 0:
     if a > b:
         for i in range(a, b, c):
-            print
+            print(str(i))
