@@ -14,4 +14,8 @@ if c < 0:
             print(i)
 else:
     if a < b:
-        for i in range(a, b, c)
+        for i in range(a, b, c):
+            print(i)
+    else:
+        for i in range(b, a, c):
+            print(i)
