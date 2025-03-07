@@ -1,2 +1,2 @@
 # Get the start
-un
+start_number = int(input(""))
