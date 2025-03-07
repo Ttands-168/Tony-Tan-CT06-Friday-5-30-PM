@@ -32,4 +32,3 @@ for iowa in range(1,6):
     ubi_ave_4 = int(input("What is the lucky number " + str(iowa) + ". "))
     counat = counat + ubi_ave_4
 print(counat)
-
