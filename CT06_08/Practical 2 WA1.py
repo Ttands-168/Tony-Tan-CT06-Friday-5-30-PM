@@ -12,6 +12,6 @@ if c < 0:
     else:
         for i in range(b, a, c):
             print(i)
-if c > 0:
+else:
     if a < b:
-        fo
+        for i in range(a, b, c)
