@@ -4,3 +4,8 @@ a = int(input("Find the value of a."))
 b = int(input("Find the value of b."))
 # Get the increment value
 c = int(input("Find the value of c."))
+# For looping START!
+if c < 0:
+    if a > b:
+        for i in range(a, b, c):
+            print
