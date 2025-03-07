@@ -1,3 +1,4 @@
 # Ask for your name
-
-name = input("What is your name.")
+def name(username, greetings):
+    username = input("What is your name?")
+    
