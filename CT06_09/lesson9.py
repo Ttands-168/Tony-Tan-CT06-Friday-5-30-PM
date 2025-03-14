@@ -19,3 +19,5 @@ time.sleep(4.5)
 print(num2)
 if integer + 0.25 >= num1 + num2 and integer - 0.25 <= num1 + num2:
     print("good job!")
+else:
+    print("Oops, you are wrong!")
