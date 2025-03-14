@@ -12,6 +12,6 @@ import random
 #     print(random.randint(0, 9999))
 
 int(input("What is the sum of the two numbers?"))
+time.sleep(4.5)
 for i in range(2):
-    
-    time.sleep(4.5)
+    print()
