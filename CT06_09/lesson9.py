@@ -28,3 +28,4 @@ if user_input1 <= the_print <= user_input2:
     print(True)
 else:
     print(False)
+print(the_print)
