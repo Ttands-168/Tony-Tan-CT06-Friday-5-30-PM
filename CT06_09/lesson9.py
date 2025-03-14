@@ -6,4 +6,4 @@ import random
 #     time.sleep(1)
 #     print(i)
 # print("Happy New Year!")
-random.randint(1,)
+random.randint(3,18)
