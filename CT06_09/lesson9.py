@@ -6,6 +6,7 @@ import random
 #     time.sleep(1)
 #     print(i)
 # print("Happy New Year!")
+print(random.randint)
 for i in range(20):
     time.sleep
     print(random.randint(0, 9999))
