@@ -11,7 +11,7 @@ import random
 #     time.sleep
 #     print(random.randint(0, 9999))
 
-integer = int(input("What is the sum of the two numbers?"))
+integer = int(input("What is the sum of the two numbers? "))
 num1 = random.random() * 37
 num2 = random.random() * 20
 print(num1)
