@@ -11,9 +11,9 @@ import random
 #     time.sleep
 #     print(random.randint(0, 9999))
 
-integer = int(input("What is the sum of the two numbers? "))
 num1 = random.random() * 37
 num2 = random.random() * 20
+integer = int(input("What is the sum of the two numbers? "))
 print(num1)
 print(num2)
 if integer + 0.25 >= num1 + num2 and integer - 0.25 <= num1 + num2:
