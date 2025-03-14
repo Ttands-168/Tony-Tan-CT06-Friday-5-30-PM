@@ -21,3 +21,4 @@ import random
 # else:
 #     print("Oops, you are wrong!")
 
+user_input = float(input("I"))
