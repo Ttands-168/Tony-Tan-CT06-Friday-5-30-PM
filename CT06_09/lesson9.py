@@ -7,4 +7,4 @@ import random
 #     print(i)
 # print("Happy New Year!")
 print(random.randint(3, 18))
-print(random.random(37))
+print(random.random() * 37)
