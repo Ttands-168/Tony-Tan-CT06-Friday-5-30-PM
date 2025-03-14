@@ -14,4 +14,5 @@ import random
 int(input("What is the sum of the two numbers?"))
 time.sleep(4.5)
 for i in range(2):
-    print(random.randint())
+    print(random.random * 37)
+    
