@@ -8,3 +8,4 @@ import random
 # print("Happy New Year!")
 print(random.randint(3, 18))
 print(random.random() * 37)
+for i in range(20)
