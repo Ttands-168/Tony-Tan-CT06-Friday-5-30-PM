@@ -12,4 +12,5 @@ import random
 #     print(random.randint(0, 9999))
 
 for i in range(2):
-    int(input("What are "))
+    int(input("What is the sum of the two numbers?"))
+    
