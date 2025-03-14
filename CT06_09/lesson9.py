@@ -15,7 +15,7 @@ num1 = random.random() * 37
 num2 = random.random() * 20
 print(num1)
 print(num2)
-integer = int(input("What is the sum of the two numbers? "))
+integer = float(input("What is the sum of the two numbers? "))
 if integer + 0.25 >= num1 + num2 and integer - 0.25 <= num1 + num2:
     print("good job!")
 else:
