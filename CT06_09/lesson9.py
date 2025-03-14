@@ -1,3 +1,3 @@
 import time
 import math
-sleep = float(input())
+sleep = float(input("You wanna sleep x seconds?"))
