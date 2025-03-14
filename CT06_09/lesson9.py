@@ -21,4 +21,4 @@ import random
 # else:
 #     print("Oops, you are wrong!")
 
-user_input1 = float(input("I can"))
+user_input1 = float(input("Give me the start number?"))
