@@ -14,4 +14,3 @@ import random
 for i in range(2):
     int(input("What is the sum of the two numbers?"))
     time.sleep(4.5)
-    print()
