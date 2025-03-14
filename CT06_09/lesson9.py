@@ -23,4 +23,5 @@ import random
 
 user_input1 = float(input("Give me the start number."))
 user_input2 = float(input("Give me the end number."))
-the_print = random.randint(1, )
+the_print = random.randint(1,37)
+print()
