@@ -21,9 +21,10 @@ import random
 # else:
 #     print("Oops, you are wrong!")
 
-user_input1 = float(input("Give me the start number."))
-user_input2 = float(input("Give me the end number."))
+user_input1 = float(input("Give me the start number. "))
+user_input2 = float(input("Give me the end number. "))
 the_print = random.randint(1,37)
 if user_input1 <= the_print <= user_input2:
     print(True)
-else
+else:
+    print(False)
