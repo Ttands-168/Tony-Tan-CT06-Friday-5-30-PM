@@ -30,4 +30,4 @@ else:
     print(False)
 print(the_print)
 
-question = float(input("What is " + str(num1) + " + "))
+question = float(input("What is " + str(num1) + " + " + str(num2)))
