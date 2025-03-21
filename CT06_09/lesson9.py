@@ -40,5 +40,6 @@ else:
 #     else:
 #         print("Good effort")
 # else:
-#     print("Wrong. The answer is " + str(answer) + ".")
+#     print("Wrong. The answer is " + str(answer) + "
 
+user_input_9 = float(input(""))
