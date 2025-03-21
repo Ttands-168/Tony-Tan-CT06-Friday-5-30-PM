@@ -53,3 +53,5 @@ else:
 
 user_input_10 = float(input("Give me a number. "))
 user_input_11 = float(input("Give me a second number. "))
+if user_input_10 % user_input_11 == 0:
+    print("")
