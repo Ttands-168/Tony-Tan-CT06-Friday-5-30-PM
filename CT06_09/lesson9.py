@@ -45,3 +45,4 @@ else:
 user_input_9 = int(input("What is your number?"))
 remainder = user_input_9 % 2
 if remainder == int:
+    print("The number is even.")
