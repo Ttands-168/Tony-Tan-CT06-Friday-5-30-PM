@@ -37,5 +37,4 @@ answer = num1 + num2
 if answer - 0.4 <= question <= answer + 0.4:
     if answer - 0.25 <= question <= answer + 0.25:
         print("Really good huh!")
-    else:
-        print
+    print("Good effort")
