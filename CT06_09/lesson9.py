@@ -42,7 +42,8 @@ else:
 # else:
 #     print("Wrong. The answer is " + str(answer) + "
 
-user_input_9 = float(input("What is your number?"))
+user_input_9 = float(input("What is your number? "))
 remainder = user_input_9 % 2
 if remainder == 0:
     print("It is an even number.")
+elif remainder == 1
