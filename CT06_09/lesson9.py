@@ -58,4 +58,4 @@ if user_input_10 % user_input_11 == 0:
 else:
     print("You cannot divide. Waaaaa!")
 
-user_input()
+user_input = float()
