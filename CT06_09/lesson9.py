@@ -58,4 +58,6 @@ if user_input_10 % user_input_11 == 0:
 else:
     print("You cannot divide. Waaaaa!")
 
-uspri
+user_input = int(input("What is the random number? "))
+real_magic_number = random.randint(1, 10)
+print()
