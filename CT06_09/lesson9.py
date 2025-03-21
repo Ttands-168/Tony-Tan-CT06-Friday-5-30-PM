@@ -39,4 +39,4 @@ if answer - 0.4 <= question <= answer + 0.4:
         print("Really good huh!")
     print("Good effort")
 else:
-    print("Wrong")
+    print("Wrong. The answer is " + answer)
