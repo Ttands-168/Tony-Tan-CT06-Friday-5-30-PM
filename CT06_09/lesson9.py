@@ -50,3 +50,5 @@ elif remainder == 1:
     print("It is an odd number.")
 else:
     print("It is a decimal.")
+
+user_input_10 = float(i)
