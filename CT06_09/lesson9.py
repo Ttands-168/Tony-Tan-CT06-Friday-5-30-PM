@@ -30,4 +30,5 @@ else:
     print(False)
 print(the_print)
 
+num1 = random.random()
 question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
