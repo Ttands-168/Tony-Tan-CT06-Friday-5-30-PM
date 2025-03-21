@@ -21,23 +21,23 @@ import random
 # else:
 #     print("Oops, you are wrong!")
 
-user_input1 = float(input("Give me the start number. "))
-user_input2 = float(input("Give me the end number. "))
-the_print = random.random() * 37
-if user_input1 <= the_print <= user_input2:
-    print(True)
-else:
-    print(False)
-print(the_print)
+# user_input1 = float(input("Give me the start number. "))
+# user_input2 = float(input("Give me the end number. "))
+# the_print = random.random() * 37
+# if user_input1 <= the_print <= user_input2:
+#     print(True)
+# else:
+#     print(False)
+# print(the_print)
 
-num1 = random.random() * 50
-num2 = random.random() * 50
-question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
-answer = num1 + num2
-if answer - 0.4 <= question <= answer + 0.4:
-    if answer - 0.25 <= question <= answer + 0.25:
-        print("Really good huh!")
-    else:
-        print("Good effort")
-else:
-    print("Wrong. The answer is " + str(answer) + ".")
+# num1 = random.random() * 50
+# num2 = random.random() * 50
+# question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
+# answer = num1 + num2
+# if answer - 0.4 <= question <= answer + 0.4:
+#     if answer - 0.25 <= question <= answer + 0.25:
+#         print("Really good huh!")
+#     else:
+#         print("Good effort")
+# else:
+#     print("Wrong. The answer is " + str(answer) + ".")
