@@ -60,4 +60,4 @@ else:
 
 user_input = int(input("What is the random number? "))
 real_magic_number = random.randint(1, 10)
-print()
+print( user_input == real_magic_number )
