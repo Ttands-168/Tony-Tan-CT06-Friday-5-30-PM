@@ -21,6 +21,7 @@ import random
 # else:
 #     print("Oops, you are wrong!")
 
+question
 user_input1 = float(input("Give me the start number. "))
 user_input2 = float(input("Give me the end number. "))
 the_print = random.random() * 37
