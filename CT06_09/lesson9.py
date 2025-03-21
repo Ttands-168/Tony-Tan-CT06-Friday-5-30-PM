@@ -42,4 +42,4 @@ else:
 # else:
 #     print("Wrong. The answer is " + str(answer) + "
 
-user_input_9 = float(input("What is "))
+user_input_9 = float(input("What is your number?"))
