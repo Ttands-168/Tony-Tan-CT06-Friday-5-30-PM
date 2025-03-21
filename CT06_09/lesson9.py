@@ -52,4 +52,4 @@ else:
     print("It is a decimal.")
 
 user_input_10 = float(input("Give me a number. "))
-user_input_11 = float(input())
+user_input_11 = float(input("Give me a second number. "))
