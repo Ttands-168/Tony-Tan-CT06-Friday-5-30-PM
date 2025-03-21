@@ -44,3 +44,5 @@ else:
 
 user_input_9 = float(input("What is your number?"))
 remainder = user_input_9 % 2
+if remainder == float:
+    print("")
