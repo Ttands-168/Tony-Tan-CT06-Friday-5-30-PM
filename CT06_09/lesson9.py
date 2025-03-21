@@ -33,3 +33,7 @@ print(the_print)
 num1 = random.random() * 50
 num2 = random.random() * 50
 question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
+answer = num1 + num2
+if answer - 0.4 <= question <= answer + 0.4:
+    if answer - 0.25 <= question <= answer + 0.25:
+        print("Really good huh")
