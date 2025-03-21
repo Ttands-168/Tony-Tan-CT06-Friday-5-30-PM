@@ -11,15 +11,15 @@ import random
 #     time.sleep
 #     print(random.randint(0, 9999))
 
-# num1 = random.random() * 37
-# num2 = random.random() * 20
-# print(num1)
-# print(num2)
-# integer = float(input("What is the sum of the two numbers? "))
-# if integer + 0.25 >= num1 + num2 and integer - 0.25 <= num1 + num2:
-#     print("good job!")
-# else:
-#     print("Oops, you are wrong!")
+num1 = random.random() * 37
+num2 = random.random() * 20
+print(num1)
+print(num2)
+integer = float(input("What is the sum of the two numbers? "))
+if integer + 0.25 >= num1 + num2 and integer - 0.25 <= num1 + num2:
+    print("good job!")
+else:
+    print("Oops, you are wrong!")
 
 # user_input1 = float(input("Give me the start number. "))
 # user_input2 = float(input("Give me the end number. "))
