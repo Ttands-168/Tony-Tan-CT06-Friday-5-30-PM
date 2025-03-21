@@ -36,4 +36,6 @@ question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
 answer = num1 + num2
 if answer - 0.4 <= question <= answer + 0.4:
     if answer - 0.25 <= question <= answer + 0.25:
-        print("Really good huh")
+        print("Really good huh!")
+    else:
+        print
