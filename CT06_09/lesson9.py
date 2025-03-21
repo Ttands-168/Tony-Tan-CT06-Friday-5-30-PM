@@ -51,4 +51,4 @@ elif remainder == 1:
 else:
     print("It is a decimal.")
 
-user_input_10 = float(i)
+user_input_10 = float(input("Give me a number."))
