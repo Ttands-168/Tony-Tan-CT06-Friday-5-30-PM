@@ -32,4 +32,4 @@ print(the_print)
 
 num1 = random.random() * 50
 num2 = random.random() * 50
- = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
+question = float(input("What is " + str(num1) + " + " + str(num2) + "? "))
