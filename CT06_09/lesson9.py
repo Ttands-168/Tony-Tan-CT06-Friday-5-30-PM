@@ -54,4 +54,6 @@ else:
 user_input_10 = float(input("Give me a number. "))
 user_input_11 = float(input("Give me a second number. "))
 if user_input_10 % user_input_11 == 0:
-    print("You can divide ")
+    print("You can divide your 1st input by your second input.")
+else:
+    print("You ")
