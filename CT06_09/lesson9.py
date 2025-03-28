@@ -78,3 +78,5 @@ if oranges > 5:
         price_of_oranges = price_of_oranges * 0.9
 
 print("The prices of your groceries is $" + str(price_of_apples + price_of_oranges) + ".")
+
+temperature_monitor = float(input())
