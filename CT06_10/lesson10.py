@@ -4,4 +4,4 @@ if number % 2 == 0:
 elif number % 2 == 1:
     print("It is an odd number.")
 else:
-    print("It ")
+    print("It is a decimal.")
