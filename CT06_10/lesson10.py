@@ -16,4 +16,6 @@ elif age < 65:
 else:
     print("You are an old man.")
 
-temperature = 
+temperature = float(input("What is the temperature outside today?"))
+if temperature < 16:
+    print("")
