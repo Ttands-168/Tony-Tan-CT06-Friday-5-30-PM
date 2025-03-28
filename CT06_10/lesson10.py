@@ -13,3 +13,6 @@ elif age < 21:
     print("You are an adolescent.")
 elif age < 65:
     print("You are an adult.")
+else:
+    print("You are an old man.")
+pr
