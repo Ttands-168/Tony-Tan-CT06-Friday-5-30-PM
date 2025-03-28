@@ -5,3 +5,5 @@ elif number % 2 == 1:
     print("It is an odd number.")
 else:
     print("It is a decimal.")
+
+age 
