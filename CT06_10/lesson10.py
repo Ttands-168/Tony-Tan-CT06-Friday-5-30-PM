@@ -6,4 +6,4 @@ elif number % 2 == 1:
 else:
     print("It is a decimal.")
 
-age 
+age = float(input("How old are you? "))
