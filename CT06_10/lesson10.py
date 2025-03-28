@@ -12,4 +12,4 @@ if age < 12.5:
 elif age < 21:
     print("You are an adolescent.")
 elif age < 65:
-    print("")
+    print("You are an adult.")
