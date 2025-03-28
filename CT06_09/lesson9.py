@@ -79,4 +79,5 @@ if oranges > 5:
 
 print("The prices of your groceries is $" + str(price_of_apples + price_of_oranges) + ".")
 
-temperature_monitor = float(input())
+for count in range(7):
+    temperature_monitor = float(input("What is the temperature today?"))
