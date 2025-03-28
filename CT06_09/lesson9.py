@@ -84,4 +84,4 @@ for count in range(7):
     temperature_monitor = float(input("What is the temperature today? "))
     if temperature_monitor > 29.8:
         positive_days += 1
-print("There are " + str(positive_days) + " with temperature hotter than 30 degrees Celsius.")
+print("There are " + str(positive_days) + " days with temperature hotter than 30 degrees Celsius.")
