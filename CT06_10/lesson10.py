@@ -17,7 +17,8 @@ else:
     print("You are an old man.")
 
 temperature = float(input("What is the temperature outside today? "))
-if temperature < 10:
+if temperature < 
+elif temperature < 10:
     print("Please go bowling.")
 elif temperature < 16:
     print("You can play computer games or read or do your homework or something.")
