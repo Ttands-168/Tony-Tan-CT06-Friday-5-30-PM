@@ -13,4 +13,4 @@ while counter > 0:
     print(counter)
     counter -= 1
 
-visitors_already_present = input("")
+visitors_already_present = int(input("How ")
