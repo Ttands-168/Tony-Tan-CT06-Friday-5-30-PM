@@ -9,3 +9,4 @@ else:
 counter = 60
 while counter > 0:
     print(counter)
+    counter -= 1
