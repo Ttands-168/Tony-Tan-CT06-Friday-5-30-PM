@@ -34,7 +34,7 @@ del height
 del number
 
 
-while cyan != "cyan" or cyan != "Cyan":
+while True:
     print("It is not " + cyan + ".")
     continue
 else:
