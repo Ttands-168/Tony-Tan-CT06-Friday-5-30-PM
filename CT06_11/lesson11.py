@@ -50,4 +50,4 @@ main_meal = input("What do you want to order? ")
 sides = input("What do you want to order? ")
 drink = input("What do you want to drink? ")
 if drink == "No" or drink == "no" or drink == "end" or drink == "End":
-    drink = input("Hello, ")
+    drink = input("Hello, would you get thirsty after this?")
