@@ -19,4 +19,4 @@ else:
     print("Sorry, we are full!")
 
 del visitors_already_present
-order 
+order = ""
