@@ -35,7 +35,7 @@ del number
 
 
 while True:
-    print("It is not " + cyan + ".")
+    cyan = input("")
     continue
 else:
     print("Ok, SSundee.")
