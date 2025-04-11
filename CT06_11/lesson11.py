@@ -36,6 +36,5 @@ del Erik_Heng
 del Ethan_Tian_2
 
 cyan = input("What is the colour? ")
-if cyan == "cyan" or cyan == "Cyan":
-    break
-else
+while cyan != "cyan" or cyan != "Cyan":
+    print("It is not ")
