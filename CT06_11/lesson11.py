@@ -29,3 +29,6 @@ if age < 13 or age > 64:
     print("Ticket costs $12.")
 else:
     print("Ticket is $800.")
+
+del Quek_Lilian
+del 
