@@ -37,4 +37,4 @@ del Ethan_Tian_2
 
 cyan = input("What is the colour? ")
 while cyan != "cyan" or cyan != "Cyan":
-    print("It is not ")
+    print("It is not " + cyan + ".")
