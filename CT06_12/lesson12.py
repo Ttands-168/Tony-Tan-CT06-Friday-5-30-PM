@@ -21,4 +21,5 @@ else:
 del visitors_already_present
 order = ""
 while True:
-    order2 = input()
+    order2 = input("What is your order? ")
+    
