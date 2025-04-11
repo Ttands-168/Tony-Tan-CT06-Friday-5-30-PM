@@ -35,8 +35,9 @@ del number
 
 
 while True:
-    cyan = input("")
-    continue
+    cyan = input("Is it cyan? ")
+    while cyan != "cyan" or cyan != "Cyan":
+        print
 else:
     print("Ok, SSundee.")
 
