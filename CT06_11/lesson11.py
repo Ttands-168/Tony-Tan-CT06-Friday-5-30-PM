@@ -38,8 +38,8 @@ while True:
     cyan = input("Is it cyan? ")
     if cyan != "cyan" or cyan != "Cyan":
         print("It is not " + cyan + ".")
-else:
-    print("Ok, SSundee.")
+    else:
+        print("Ok, SSundee.")
 
 天 = input("What is the day of the week? ")
 if 天 != "Friday" or 天 != "Saturday" or 天 != "Sunday":
