@@ -33,4 +33,5 @@ else:
 del Quek_Lilian
 del Ethan_Tian_1
 del Erik_Heng
-del E
+del Ethan_Tian_2
+
