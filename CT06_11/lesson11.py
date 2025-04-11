@@ -32,5 +32,6 @@ del age
 cyan = input("What is the colour? ")
 while cyan != "cyan" or cyan != "Cyan":
     print("It is not " + cyan + ".")
+    continue
 else:
-    print("Ok, SSundee")
+    print("Ok, SSundee.")
