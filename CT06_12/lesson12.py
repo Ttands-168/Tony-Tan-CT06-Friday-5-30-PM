@@ -3,8 +3,8 @@ found_o = False
 word = input("Gimme a word. ")
 while not(found_e and found_o and len(word) == 5):
     print("Not a good choice.")
-    else:
-        print("Got it! " + word + ".")
+else:
+    print("Got it! " + word + ".")
 
 
 counter = 60
@@ -15,3 +15,4 @@ while counter > 0:
 visitors_already_present = int(input("How many visitors are there? "))
 while visitors_already_present < 50:
     print("You can add more.")
+    
