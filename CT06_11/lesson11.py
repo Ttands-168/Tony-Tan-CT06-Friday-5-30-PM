@@ -27,11 +27,10 @@ if age < 13 or age > 64:
 else:
     print("Ticket is $800.")
 
-del Quek_Lilian
-del Ethan_Tian_1
-del Erik_Heng
-del Ethan_Tian_2
+del age
 
 cyan = input("What is the colour? ")
 while cyan != "cyan" or cyan != "Cyan":
     print("It is not " + cyan + ".")
+else:
+    print("")
