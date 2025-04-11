@@ -51,3 +51,5 @@ sides = input("What do you want to order? ")
 drink = input("What do you want to drink? ")
 if drink == "No" or drink == "no" or drink == "end" or drink == "End":
     drink = input("Hello, would you get thirsty after this?")
+    if drink == "Mind your own business":
+        print("Oh fine. There is nothing much I can do if yo")
