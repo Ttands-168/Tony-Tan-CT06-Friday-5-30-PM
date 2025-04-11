@@ -48,3 +48,4 @@ else:
 
 main_meal = input("What do you want to order? ")
 sides = input("What do you want to order? ")
+drink
