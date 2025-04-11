@@ -33,4 +33,4 @@ cyan = input("What is the colour? ")
 while cyan != "cyan" or cyan != "Cyan":
     print("It is not " + cyan + ".")
 else:
-    print("")
+    print("Ok, SSundee")
