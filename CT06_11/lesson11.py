@@ -33,7 +33,7 @@ del Tony_Tan
 del height
 del number
 
-cyan = input("What is the colour? ")
+
 while cyan != "cyan" or cyan != "Cyan":
     print("It is not " + cyan + ".")
     continue
