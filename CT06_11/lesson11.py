@@ -20,7 +20,7 @@ if Erik_Heng >= 18 or Tony_Tan >= 18:
 else:
     print("Someone older than you must manage because Erik is not 18 yet.")
 
-age = int(age)
+age = float(age)
 Ethan_Tian_1 = 12.4
 Ethan_Tian_2 = 14.95
 Quek_Lilian = 54
