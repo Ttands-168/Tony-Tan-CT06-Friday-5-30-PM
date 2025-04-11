@@ -56,4 +56,4 @@ if drink == "No" or drink == "no" or drink == "end" or drink == "End":
     else:
         print("Yes! I will get your order.")
 else:
-    print("")
+    print("Yes! I will get your order.")
