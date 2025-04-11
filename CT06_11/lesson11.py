@@ -35,3 +35,4 @@ del Ethan_Tian_1
 del Erik_Heng
 del Ethan_Tian_2
 
+cyan = 
