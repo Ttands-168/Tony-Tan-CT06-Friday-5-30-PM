@@ -37,5 +37,7 @@ else:
     print("Ok, SSundee.")
 
 天 = input("What is the day of the week? ")
-if day != "Friday" or day != "Saturday" or day != "Sunday":
-    print("")
+if 天 != "Friday" or 天 != "Saturday" or 天 != "Sunday":
+    print("No! You can't have fun yet.")
+else:
+    print("Yay!")
