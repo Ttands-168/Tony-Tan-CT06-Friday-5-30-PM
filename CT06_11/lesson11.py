@@ -31,4 +31,6 @@ else:
     print("Ticket is $800.")
 
 del Quek_Lilian
-del 
+del Ethan_Tian_1
+del Erik_Heng
+del E
