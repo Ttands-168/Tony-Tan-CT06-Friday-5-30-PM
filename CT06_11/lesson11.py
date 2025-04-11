@@ -46,4 +46,5 @@ if 天 != "Friday" or 天 != "Saturday" or 天 != "Sunday":
 else:
     print("Yay!")
 
+main_meal = input("What do you want to eat your main as? ")
     
