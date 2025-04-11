@@ -36,3 +36,4 @@ while cyan != "cyan" or cyan != "Cyan":
 else:
     print("Ok, SSundee.")
 
+天 = 
