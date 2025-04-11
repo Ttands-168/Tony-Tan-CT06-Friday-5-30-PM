@@ -20,3 +20,5 @@ else:
 
 del visitors_already_present
 order = ""
+while True:
+    order2 = input()
