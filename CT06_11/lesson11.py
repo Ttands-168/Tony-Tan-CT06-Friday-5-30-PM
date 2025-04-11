@@ -28,6 +28,10 @@ else:
     print("Ticket is $800.")
 
 del age
+del Erik_Heng
+del Tony_Tan
+del height
+del number
 
 cyan = input("What is the colour? ")
 while cyan != "cyan" or cyan != "Cyan":
