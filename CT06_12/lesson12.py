@@ -1,9 +1,10 @@
-word = input("Gimme a word. ")
+
 found_e = False
 found_o = False
+
 while not(found_e and found_o and len(word) == 5):
     print("Got it! " + word + ".")
-    
+
 
 counter = 60
 while counter > 0:
