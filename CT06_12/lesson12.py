@@ -13,3 +13,4 @@ while counter > 0:
     print(counter)
     counter -= 1
 
+visitors_already_present = input("")
