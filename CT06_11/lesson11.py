@@ -45,3 +45,5 @@ if 天 != "Friday" or 天 != "Saturday" or 天 != "Sunday":
     print("No! You can't have fun yet.")
 else:
     print("Yay!")
+
+    
