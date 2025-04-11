@@ -36,4 +36,6 @@ while cyan != "cyan" or cyan != "Cyan":
 else:
     print("Ok, SSundee.")
 
-天 = 
+天 = input("What is the day of the week? ")
+if day != "Saturday" or day != "Sunday":
+    print("")
