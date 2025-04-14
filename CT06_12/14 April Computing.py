@@ -6,4 +6,5 @@ print("Inflation in US is " + str(inflation * 100) + "% in March 2025.")
 # Whether is it True
 # Helpful
 # Inspiring
+# Necessary
 # 
