@@ -9,4 +9,3 @@ print("Inflation in US is " + str(inflation * 100) + "% in March 2025.")
 # Necessary
 # and Kind?
 print("The comments are finished now.")
-poster# - 
