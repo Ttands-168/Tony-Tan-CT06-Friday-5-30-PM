@@ -17,3 +17,5 @@ print("I have " + str(total_fruits) + " fruits.")
 # Now let's do some algebra
 x = 8
 print(x)
+x = x + 1
+print(x)
