@@ -1,2 +1,3 @@
 print("Hello Tytus!")
-inflation = 0.002
+inflation = 0.02
+inflation
