@@ -10,3 +10,5 @@ print("Inflation in US is " + str(inflation * 100) + "% in March 2025.")
 # and Kind?
 print("The comments are finished now.")
 # Let's start with the variables
+apples = 2
+orange = 
