@@ -4,4 +4,4 @@ print("TRUE" or True)
 
 print("Not" + str(True))
 print(not False)
-print("NOT" + False)
+print("NOT" + str(False))
