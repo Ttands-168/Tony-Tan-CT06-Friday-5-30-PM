@@ -93,3 +93,5 @@ import math
 print("math.sqrt(9) =", math.sqrt(9))
 print("math.sqrt(16) =", math.sqrt(16))
 
+base = float(input("What is the base of the triangle? "))
+height = float(input("What is the height of the triangle? "))
