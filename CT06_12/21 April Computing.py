@@ -104,3 +104,5 @@ del hypotenuse
 
 mass = float(input("What is the mass of the object in kg? "))
 gravity_acceleration = 10
+height = float(input("What is the height of the object in m? "))
+potential_energy = mass * gravity_acceleration * height
