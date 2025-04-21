@@ -102,3 +102,5 @@ del base
 del height
 del hypotenuse
 
+mass = float(input("What is the mass of the object in kg? "))
+speed
