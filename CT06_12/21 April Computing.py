@@ -82,4 +82,5 @@ del height
 del area
 
 user_input = float(input("Give me a number. "))
+user_input *= 2
 user_input
