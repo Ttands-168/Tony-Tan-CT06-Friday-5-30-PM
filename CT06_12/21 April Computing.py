@@ -87,3 +87,4 @@ user_input *= 2
 user_input += 6
 user_input /= 2
 user_input -= jollibee
+print("The answer is " + str(user_input) + ".")
