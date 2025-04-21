@@ -81,3 +81,4 @@ del base
 del height
 del area
 
+user_input = float(input("Enter a number. "))
