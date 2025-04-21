@@ -97,3 +97,7 @@ base = float(input("What is the base of the triangle? "))
 height = float(input("What is the height of the triangle? "))
 hypotenuse = math.sqrt(base**2 + height**2)
 print("The length of the hypotenuse is " + str(hypotenuse) + " units.")
+
+del base
+del height
+del hypotenuse
