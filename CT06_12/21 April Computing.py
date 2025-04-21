@@ -95,3 +95,4 @@ print("math.sqrt(16) =", math.sqrt(16))
 
 base = float(input("What is the base of the triangle? "))
 height = float(input("What is the height of the triangle? "))
+hypotenuse = math.sqrt(base**2 + height**2)
