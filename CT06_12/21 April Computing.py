@@ -77,3 +77,7 @@ area = 0.5 * base * height
 print("The area of the triangle is " + str(area) + " square units.")
 # The area of a triangle is given by the formula: area = 0.5 * base * height
 
+del base
+del height
+del area
+
