@@ -71,4 +71,4 @@ print(a)
 del a
 del b
 
-base = float(input("Enter the base: "))
+base = float(input("What is the base of the triangle? "))
