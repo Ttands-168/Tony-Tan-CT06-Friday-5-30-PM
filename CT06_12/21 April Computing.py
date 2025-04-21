@@ -73,4 +73,5 @@ del b
 
 base = float(input("What is the base of the triangle? "))
 height = float(input("What is the height of the triangle? "))
-area = 0.5
+area = 0.5 * base * height
+print("The area of the triangle is " + str(area) + " square units.")
