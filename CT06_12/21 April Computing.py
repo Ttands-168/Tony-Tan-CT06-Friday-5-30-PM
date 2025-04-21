@@ -90,4 +90,4 @@ user_input -= jollibee
 print("The result is " + str(user_input) + ".")
 
 import math
-print("math.sqrt")
+print("math.sqrt(9):")
