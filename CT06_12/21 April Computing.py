@@ -103,4 +103,5 @@ del height
 del hypotenuse
 
 mass = float(input("What is the mass of the object in kg? "))
-speed
+speed = float(input("What is the speed of the object in m/s? "))
+kinetic_energy = 0.5 * mass * speed**2
