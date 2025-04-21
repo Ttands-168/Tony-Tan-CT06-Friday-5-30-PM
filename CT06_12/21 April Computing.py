@@ -52,4 +52,8 @@ a = 9
 b = 3
 a -= b
 print(a)
-a
+
+a = 9
+b = 3
+a /= b
+print(a)
