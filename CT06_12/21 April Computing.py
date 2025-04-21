@@ -65,4 +65,5 @@ print(a)
 
 a = 4
 b = 3
-a &= b
+a %= b
+print(a)
