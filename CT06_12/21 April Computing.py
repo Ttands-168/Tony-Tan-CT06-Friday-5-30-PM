@@ -67,3 +67,8 @@ a = 4
 b = 3
 a %= b
 print(a)
+
+del a
+del b
+
+base = float(input("Enter the base: "))
