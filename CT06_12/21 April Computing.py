@@ -41,11 +41,12 @@ print(c // d)
 print(c % d)
 print(c ** d)
 
-del a
-del b
 del c
 del d
 
 a = 5
 b = 6.0
 print(a + b)
+
+a = 9
+b = 3
