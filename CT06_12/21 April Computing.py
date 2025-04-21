@@ -81,4 +81,5 @@ del base
 del height
 del area
 
-user_input = float(input("Enter a number. "))
+user_input = float(input("Give me a number. "))
+user_input
