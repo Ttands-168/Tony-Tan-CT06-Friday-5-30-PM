@@ -45,4 +45,4 @@ s[::2]
 s[0::4]
 s[9:0:-2]
 
-z = 'ba'
+z = 'bananananana'
