@@ -49,4 +49,4 @@ z = 'bananananananananab'
 z[:6]
 z[::3]
 z[-1:10:-1]
-z
+z[0:10]
