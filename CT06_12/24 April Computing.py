@@ -46,4 +46,5 @@ s[0::4]
 s[9:0:-2]
 
 z = 'bananananananananab'
-z
+z[:6]
+z[::3]
