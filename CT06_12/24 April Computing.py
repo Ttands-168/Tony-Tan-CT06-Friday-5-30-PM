@@ -49,8 +49,9 @@ z = 'bananananananananab'
 print(z[:6])
 print(z[::3])
 print(z[-1:10:-1])
-z[0:10:-1]
+print(z[0:10:-1])
 z[:-6:-1]
 z[-1:-7]
 z[-6:][::-1]
 z[0:2] + (z[-2] + z(2))[::-1] * 2
+z
