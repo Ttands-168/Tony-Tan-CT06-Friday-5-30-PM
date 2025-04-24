@@ -46,7 +46,7 @@ s[0::4]
 s[9:0:-2]
 
 z = 'bananananananananab'
-z[:6]
+print(z[:6])
 z[::3]
 z[-1:10:-1]
 z[0:10:-1]
