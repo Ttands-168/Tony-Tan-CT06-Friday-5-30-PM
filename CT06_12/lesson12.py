@@ -1,10 +1,10 @@
 word = input("Gimme a word. ")
 found_e = word.find('e')
 found_o = word.find('o')
-    while not(found_e and found_o):
-        print("Not a good choice.")
-    else:
-        print("Got it! " + word + ".")
+while not(found_e and found_o):
+    print("Not a good choice.")
+else:
+    print("Got it! " + word + ".")
 
 
 counter = 60
