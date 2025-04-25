@@ -59,4 +59,5 @@ while True:
         score -= 1
     
     if counter == 15:
+        print("Your score is " + str(score) + ".")
         break
