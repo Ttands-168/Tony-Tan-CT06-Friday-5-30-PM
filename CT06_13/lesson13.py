@@ -13,7 +13,7 @@ while True:
     if options == "loan":
         loan = float(input("How much loan do you want to take out? "))
         user_balance -= loan
-        print("You are charged 5% ")
+        print("You are charged 5% compound interest a year.")
     if options == "check balance":
         print("You currently have $" + str(user_balance) + " in your account.")
     if options == "exit":
