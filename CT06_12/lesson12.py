@@ -56,6 +56,7 @@ while True:
         hidden_answer = number1 / number2
 
     if hidden_answer - 0.25 <= answer <= hidden_answer + 0.25:
-        score
+        score += 1
     else:
         print("Wrong! Try again!")
+        score
