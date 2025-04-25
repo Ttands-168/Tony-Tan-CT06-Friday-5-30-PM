@@ -25,9 +25,7 @@ while True:
         break
 
 del visitors_already_present
-order = ""
-while True:
-    order2 = input("What is your order? ")
+
 
 del order
 count_time = 0
@@ -62,4 +60,4 @@ while True:
         score -= 1
     
     if counter == 10:
-        
+        break
