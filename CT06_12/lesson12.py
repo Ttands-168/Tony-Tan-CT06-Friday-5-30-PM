@@ -1,10 +1,12 @@
 found_e = False
 found_o = False
 word = input("Gimme a word. ")
-while not(found_e and found_o):
-    print("Not a good choice.")
-else:
-    print("Got it! " + word + ".")
+for letter in word:
+    
+    while not(found_e and found_o):
+        print("Not a good choice.")
+    else:
+        print("Got it! " + word + ".")
 
 
 # counter = 60
