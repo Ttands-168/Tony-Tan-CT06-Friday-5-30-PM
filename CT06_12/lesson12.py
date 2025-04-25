@@ -36,6 +36,7 @@ while True:
     counter += 1
     number1 = random.random() * 37
     number2 = random.random() * 37
+    operator = random.randint(1, 3)
     
     if operator == 1:
         question = "Find the value of " + str(num1) + " + " + str(num2) + ": "
