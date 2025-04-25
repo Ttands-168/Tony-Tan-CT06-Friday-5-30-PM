@@ -3,7 +3,6 @@ while not(found_e and found_o):
     word = input("Gimme a word. ")
     found_e = word.find('e')
     found_o = word.find('o')
-
     print("Not a good choice.")
 else:
     print("Got it! " + word + ".")
