@@ -36,9 +36,11 @@ while True:
     counter += 1
     number1 = random.random() * 37
     number2 = random.random() * 37
-    question = "Find the value of " + str(num1) + " + " + str(num2) + ": "
-    answer = float(input(question))
-    hidden_answer = number1 + number2
+    
+    if operator == 1:
+        question = "Find the value of " + str(num1) + " + " + str(num2) + ": "
+        answer = float(input(question))
+        hidden_answer = number1 + number2
 
     if hidden_answer - 0.25 <= answer <= hidden_answer + 0.25:
         print("Correct!")
