@@ -31,7 +31,6 @@ del order
 count_time = 0
 score = 0
 while True:
-    
     counter += 1
     number1 = random.random() * 37
     number2 = random.random() * 37
