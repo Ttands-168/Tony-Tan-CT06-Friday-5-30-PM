@@ -1,4 +1,5 @@
 import random
+import time
 while True:
     word = input("Gimme a word. ")
     found_e = word.find('e')
@@ -12,6 +13,7 @@ while True:
 
 counter = 60
 while counter > 0:
+    
     print(counter)
     counter -= 1
 
