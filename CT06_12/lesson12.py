@@ -30,7 +30,8 @@ while True:
     order2 = input("What is your order? ")
 
 del order
-count
+count_time = 0
+score = 0
 while True:
     number1 = random.random() * 37
     number2 = random.random() * 37
