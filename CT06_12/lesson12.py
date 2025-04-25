@@ -3,7 +3,8 @@ while True:
     word = input("Gimme a word. ")
     found_e = word.find('e')
     found_o = word.find('o')
-    if not(found_e and found_o and len(word) == 5)
+    if not(found_e and found_o and len(word) == 5):
+        print("Not a good choice.")
 else:
     print("Got it! " + word + ".")
 
