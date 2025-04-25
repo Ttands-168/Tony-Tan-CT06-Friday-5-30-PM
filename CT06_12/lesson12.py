@@ -44,7 +44,7 @@ while True:
         hidden_answer = number1 + number2
     elif operator == 2:
         question = "Find the value of " + str(num1) + " - " + str(num2) + ": "
-        
+        answer = float(input(question))
 
     if hidden_answer - 0.25 <= answer <= hidden_answer + 0.25:
         print("Correct!")
