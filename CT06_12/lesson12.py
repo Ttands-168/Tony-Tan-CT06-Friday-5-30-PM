@@ -1,7 +1,7 @@
-word = input("Gimme a word. ")
-found_e = word.find('e')
-found_o = word.find('o')
 for letter in word:
+    word = input("Gimme a word. ")
+    found_e = word.find('e')
+    found_o = word.find('o')
     while not(found_e and found_o):
         print("Not a good choice.")
     else:
