@@ -26,6 +26,15 @@ while True:
     order2 = input("What is your order? ")
 
 del order
-number1 = random.random() * 37
-number2 = random.random() * 37
-question = float(input("Find the value of " + str(num1) + " + "))
+while True:
+    number1 = random.random() * 37
+    number2 = random.random() * 37
+    question = "Find the value of " + str(num1) + " + " + str(num2) + ": "
+    answer = float(input(question))
+    hidden_answer = number1 + number2
+
+    if hidden_answer - 0.25 <= answer <= hidden_answer + 0.25:
+        print("Correct!")
+        break
+    else:
+        print("Wrong! Try again!")
