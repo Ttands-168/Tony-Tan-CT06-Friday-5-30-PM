@@ -1,6 +1,7 @@
 # Lesson 12 recap
+user_balance = 10
 while True:
-    user_balance = 10
+    
     options = input("Enter the options. ")
     if options == "deposit":
         deposit = float(input("How much money do you want to deposit? "))
