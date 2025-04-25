@@ -1,3 +1,4 @@
+import random
 word = input("Gimme a word. ")
 found_e = word.find('e')
 found_o = word.find('o')
