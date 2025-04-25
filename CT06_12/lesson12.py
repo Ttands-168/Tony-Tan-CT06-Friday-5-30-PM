@@ -13,6 +13,7 @@ while counter > 0:
     print(counter)
     counter -= 1
 
+while True:
     visitors_already_present = int(input("How many visitors are there? "))
     if visitors_already_present < 50:
         print("You can add more.")
