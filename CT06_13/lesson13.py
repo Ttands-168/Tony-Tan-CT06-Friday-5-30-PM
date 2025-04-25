@@ -8,6 +8,8 @@ while True:
     if options == "withdraw":
         withdraw = float(input("How much money do you want to withdraw? "))
         user_balance -= withdraw
+        if user_balance < 0:
+            print("")
     if options == "loan":
         loan = float(input("How much loan do you want to take out? "))
         user_balance -= loan
