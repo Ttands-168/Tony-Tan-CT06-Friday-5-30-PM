@@ -1,4 +1,4 @@
-found_e = False
+found_e = 
 found_o = False
 word = input("Gimme a word. ")
 for letter in word:
