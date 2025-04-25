@@ -13,7 +13,7 @@ while True:
 
 counter = 60
 while counter > 0:
-    
+    time.sleep(1)
     print(counter)
     counter -= 1
 
