@@ -14,4 +14,5 @@ while True:
     if options == "check balance":
         print("You currently have $" + str(user_balance) + " in your account.")
     if options == "exit":
-        
+        print("Thank you for using the bank.")
+        break
