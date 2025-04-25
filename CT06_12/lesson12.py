@@ -27,7 +27,6 @@ while True:
 del visitors_already_present
 
 
-del order
 count_time = 0
 score = 0
 while True:
