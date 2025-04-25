@@ -26,4 +26,4 @@ while True:
     order2 = input("What is your order? ")
 
 del order
-number1 = random.random
+number1 = random.random() * 37
