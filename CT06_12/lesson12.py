@@ -7,7 +7,7 @@ while True:
         print("Not a good choice.")
     else:
         print("Got it! " + word + ".")
-    break
+        break
 
 
 counter = 60
