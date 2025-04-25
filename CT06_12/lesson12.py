@@ -1,5 +1,5 @@
 word = input("Gimme a word. ")
-found_e = word.find
+found_e = word.find('e')
 found_o = False
 for letter in word:
     while not(found_e and found_o):
