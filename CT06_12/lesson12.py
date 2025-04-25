@@ -28,4 +28,4 @@ while True:
 del order
 number1 = random.random() * 37
 number2 = random.random() * 37
-question = float(input("Find the value of " + ))
+question = float(input("Find the value of " + str(num1) + str(num)))
