@@ -4,7 +4,6 @@ found_e = word.find('e')
 found_o = word.find('o')
 while not(found_e and found_o):
     print("Not a good choice.")
-    continue
 else:
     print("Got it! " + word + ".")
 
