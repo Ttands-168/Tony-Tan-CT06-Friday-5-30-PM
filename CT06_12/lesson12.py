@@ -27,3 +27,4 @@ while True:
 
 del order
 number1 = random.random() * 37
+number2 = random.random() * 37
