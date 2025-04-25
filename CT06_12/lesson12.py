@@ -46,7 +46,7 @@ while True:
         question = "Find the value of " + str(number1) + " - " + str(number2) + ": "
         answer = float(input(question))
         hidden_answer = number1 - number2
-    elif operater == 3:
+    elif operator == 3:
         question = "Find the value of " + str(number1) + " x " + str(number2) + ": "
         answer = float(input(question))
         hidden_answer = number1 * number2
