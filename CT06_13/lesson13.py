@@ -1,5 +1,5 @@
 # Lesson 12 recap
 user_balance = 10
 while True:
-    options = input("Enter ")
+    options = input("Enter the ")
     deposit = float(input("How "))
