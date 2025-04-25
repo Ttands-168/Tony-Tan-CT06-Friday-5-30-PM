@@ -7,19 +7,19 @@ else:
     print("Got it! " + word + ".")
 
 
-counter = 60
-while counter > 0:
-    print(counter)
-    counter -= 1
+# counter = 60
+# while counter > 0:
+#     print(counter)
+#     counter -= 1
 
-visitors_already_present = int(input("How many visitors are there? "))
-while visitors_already_present < 50:
-    print("You can add more.")
-else:
-    print("Sorry, we are full!")
+# visitors_already_present = int(input("How many visitors are there? "))
+# while visitors_already_present < 50:
+#     print("You can add more.")
+# else:
+#     print("Sorry, we are full!")
 
-del visitors_already_present
-order = ""
-while True:
-    order2 = input("What is your order? ")
+# del visitors_already_present
+# order = ""
+# while True:
+#     order2 = input("What is your order? ")
     
