@@ -48,6 +48,9 @@ while True:
         hidden_answer = number1 - number2
     elif operater == 3:
         question = "Find the value of " + str(number1) + " x " + str(number2) + ": "
+        answer = float(input(question))
+
+        
     if hidden_answer - 0.25 <= answer <= hidden_answer + 0.25:
         print("Correct!")
         break
