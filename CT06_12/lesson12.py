@@ -25,3 +25,4 @@ while True:
     order2 = input("What is your order? ")
 
 del order
+math = True
