@@ -12,4 +12,5 @@ while True:
         loan = float(input("How much loan do you want to take out?"))
         user_balance -= loan
     if options == "check balance":
-        print("You currently have $" + str(user_balance) + "")
+        print("You currently have $" + str(user_balance) + " in your account.")
+    
