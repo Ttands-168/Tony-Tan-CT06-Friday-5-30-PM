@@ -33,6 +33,7 @@ del order
 count_time = 0
 score = 0
 while True:
+    counter += 1
     number1 = random.random() * 37
     number2 = random.random() * 37
     question = "Find the value of " + str(num1) + " + " + str(num2) + ": "
