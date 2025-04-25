@@ -13,4 +13,5 @@ while True:
         user_balance -= loan
     if options == "check balance":
         print("You currently have $" + str(user_balance) + " in your account.")
-    
+    if options == "exit":
+        
