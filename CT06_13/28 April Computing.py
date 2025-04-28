@@ -8,4 +8,4 @@ print(2 * y)
 print(x + [65] + y)
 
 result = []
-result 
+result += ['First']
