@@ -60,4 +60,5 @@ del names_2023[3]
 print(names_2023)
 names_2023.remove('Alex')
 print(names_2023)
-names_2023.append(''
+names_2023.insert(2, 'DianaSer')
+print(names_2023)
