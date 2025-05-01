@@ -50,3 +50,5 @@ print(names_2023)
 
 x = ['a', 'b', 'c']
 print(x[1])
+x[1] = 'z'
+
