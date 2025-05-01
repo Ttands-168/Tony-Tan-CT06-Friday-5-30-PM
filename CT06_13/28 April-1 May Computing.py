@@ -44,7 +44,7 @@ del l[:999]
 del l[:-999]
 del l[:]
 
-names_2023 = ['Beatrice', 'Celeste', 'DianaSer', 'Siewling', 'Jasmine']
+names_2023 = ['Beatrice', 'Celeste', 'DianaSer', 'Siewling', 'Jasmine', 'Sorling']
 names_2023[0] = 'Alex'
 print(names_2023)
 
