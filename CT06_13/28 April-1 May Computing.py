@@ -14,4 +14,4 @@ result = ['Third'] + result
 print(result)
 
 l = [2, 0, 2, 4]
-resul
+result = l[0]
