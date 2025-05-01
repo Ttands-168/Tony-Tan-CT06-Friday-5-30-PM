@@ -13,5 +13,5 @@ result = ['Second'] + result
 result = ['Third'] + result
 print(result)
 
-x = [20]
-print(x + 24)
+l = [2, 0, 2, 4]
+resul
