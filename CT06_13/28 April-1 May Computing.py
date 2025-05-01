@@ -10,5 +10,5 @@ print(x + [65] + y)
 result = []
 result = ['First'] + result
 result = ['Second'] + result
-result = result + ['Third']
+result = ['Third'] + result
 print(result)
