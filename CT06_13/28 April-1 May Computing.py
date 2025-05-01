@@ -32,3 +32,5 @@ result = l[:999]
 print(result)
 result = l[:-999]
 print(result)
+result = l[:]
+print(result)
