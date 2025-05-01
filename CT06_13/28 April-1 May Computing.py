@@ -71,3 +71,5 @@ matrix = [
     [5, 6, 7, 8],
     [9, 10, 11, 12],
 ]
+print(matrix[1])
+print(matrix[1][2])
