@@ -13,24 +13,25 @@ result = ['Second'] + result
 result = ['Third'] + result
 print(result)
 
-l = [2, 0, 2, 4]
-result = l[0]
-print(result)
-result = l[-2]
-print(result)
-result = l[1:]
-print(result)
-result = l[1:-1]
-print(result)
-result = l[::2]
-print(result)
-result = l[::-1]
-print(result)
-result = l[::2][1]
-print(result)
-result = l[:999]
-print(result)
-result = l[:-999]
-print(result)
-result = l[:]
-print(result)
+# l = [2, 0, 2, 4]
+# result = l[0]
+# print(result)
+# result = l[-2]
+# print(result)
+# result = l[1:]
+# print(result)
+# result = l[1:-1]
+# print(result)
+# result = l[::2]
+# print(result)
+# result = l[::-1]
+# print(result)
+# result = l[::2][1]
+# print(result)
+# result = l[:999]
+# print(result)
+# result = l[:-999]
+# print(result)
+# result = l[:]
+# print(result)
+
