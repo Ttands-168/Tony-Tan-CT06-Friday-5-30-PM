@@ -8,7 +8,7 @@ print(2 * y)
 print(x + [65] + y)
 
 result = []
-result += ['First']
+result = ['First'] + result
 result = result + ['Second']
 result = result + ['Third']
 print(result)
