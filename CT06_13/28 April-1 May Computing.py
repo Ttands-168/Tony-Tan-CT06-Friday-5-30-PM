@@ -39,3 +39,4 @@ del l[0], l[1], result, l[2], l[3], l[::2], l[::-1], l[::2][1], l[:999], l[:-999
 
 names = ['Beatrice', 'Celeste', 'Diana', 'Siewling', 'Jasmine']
 names[0] = 'Alex'
+print(names)
