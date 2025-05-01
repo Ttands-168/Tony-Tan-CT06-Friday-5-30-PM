@@ -44,7 +44,8 @@ del l[::2]
 del l[::-1]
 del l[::2][1]
 del l[:999]
-del l[:-999], l[:]
+del l[:-999]
+del l[:]
 
 names = ['Beatrice', 'Celeste', 'Diana', 'Siewling', 'Jasmine']
 names[0] = 'Alex'
