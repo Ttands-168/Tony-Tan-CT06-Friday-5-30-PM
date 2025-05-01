@@ -54,8 +54,7 @@ x[1] = 'z'
 
 names_2023 = names_2023[:2] + names_2023[3:]
 print(names_2023)
-names_2023.append('Beatrice')
+names_2023.append(2, 'Beatrice')
 del names_2023[3]
 print(names_2023)
-names_2023.insert(2, 'Beatrice')
 print(names_2023)
