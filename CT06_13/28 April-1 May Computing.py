@@ -28,3 +28,4 @@ result = l[::-1]
 print(result)
 result = l[::2][1]
 print(result)
+result = l[:999]
