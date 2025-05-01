@@ -47,3 +47,5 @@ del l[:]
 names_2023 = ['Beatrice', 'Celeste', 'DianaSer', 'Siewling', 'Jasmine']
 names_2023[0] = 'Alex'
 print(names_2023)
+
+x = ['a', 'b', 'c']
