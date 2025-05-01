@@ -35,4 +35,4 @@ print(result)
 result = l[:]
 print(result)
 
-del l[0], l[1], result, l[2], l[3], l
+del l[0], l[1], result, l[2], l[3], l[::2]
