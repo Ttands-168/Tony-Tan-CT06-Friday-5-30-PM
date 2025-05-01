@@ -54,7 +54,6 @@ x[1] = 'z'
 
 names_2023 = names_2023[:2] + names_2023[3:]
 print(names_2023)
-names_2023.append(2, 'Beatrice')
+names_2023.append(2, 'Beatrice') # This will raise an error
 del names_2023[3]
-print(names_2023)
 print(names_2023)
