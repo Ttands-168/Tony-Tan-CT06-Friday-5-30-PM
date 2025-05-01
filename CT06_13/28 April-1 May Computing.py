@@ -74,3 +74,4 @@ matrix = [
 print(matrix[1])
 print(matrix[1][2])
 print(matrix[-1][-3])
+print(matrix)
