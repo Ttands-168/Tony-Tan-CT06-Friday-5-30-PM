@@ -36,7 +36,8 @@ result = l[:]
 print(result)
 
 del l[0]
-del[1], result, l[2], l[3], l[::2], l[::-1], l[::2][1], l[:999], l[:-999], l[:]
+del l[1]
+del result, l[2], l[3], l[::2], l[::-1], l[::2][1], l[:999], l[:-999], l[:]
 
 names = ['Beatrice', 'Celeste', 'Diana', 'Siewling', 'Jasmine']
 names[0] = 'Alex'
