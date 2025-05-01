@@ -42,7 +42,9 @@ del l[2]
 del l[3]
 del l[::2]
 del l[::-1]
-del l[::2][1], l[:999], l[:-999], l[:]
+del l[::2][1]
+del l[:999]
+del l[:-999], l[:]
 
 names = ['Beatrice', 'Celeste', 'Diana', 'Siewling', 'Jasmine']
 names[0] = 'Alex'
