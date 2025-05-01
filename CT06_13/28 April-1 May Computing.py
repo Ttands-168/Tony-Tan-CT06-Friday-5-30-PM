@@ -53,3 +53,5 @@ print(x[1])
 x[1] = 'z'
 
 x = 'abc'
+print(x[1])
+x[1] = 'z'
