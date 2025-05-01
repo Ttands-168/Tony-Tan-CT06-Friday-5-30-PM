@@ -49,3 +49,4 @@ names_2023[0] = 'Alex'
 print(names_2023)
 
 x = ['a', 'b', 'c']
+print(x[1])
