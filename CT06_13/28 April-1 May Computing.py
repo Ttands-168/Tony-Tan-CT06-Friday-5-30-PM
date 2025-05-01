@@ -44,6 +44,6 @@ del l[:999]
 del l[:-999]
 del l[:]
 
-names = ['Beatrice', 'Celeste', 'DianaSer', 'Siewling', 'Jasmine']
-names[0] = 'Alex'
-print(names)
+names_2023 = ['Beatrice', 'Celeste', 'DianaSer', 'Siewling', 'Jasmine']
+names_2023[0] = 'Alex'
+print(names_2023)
