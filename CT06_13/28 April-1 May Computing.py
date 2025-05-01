@@ -18,3 +18,4 @@ result = l[0]
 print(result)
 result = l[-2]
 print(result)
+result = l
