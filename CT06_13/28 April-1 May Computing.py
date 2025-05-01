@@ -56,5 +56,6 @@ names_2023 = names_2023[:2] + names_2023[3:]
 print(names_2023)
 names_2023.insert(1, 'Beatrice')
 print(names_2023)
+names_2023.append()
 del names_2023[3]
 print(names_2023)
