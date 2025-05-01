@@ -57,4 +57,4 @@ print(names_2023)
 names_2023.append('Beatrice')
 del names_2023[3]
 print(names_2023)
-names_2023.append('Steven')
+names_2023.insert(2, 'Beatrice')
