@@ -34,4 +34,3 @@ print(result)
 # print(result)
 # result = l[:]
 # print(result)
-
