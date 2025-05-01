@@ -13,7 +13,7 @@ result = ['Second'] + result
 result = ['Third'] + result
 print(result)
 
-l = [1, 9, 6, 5]
+l = [2, 0, 2, 4]
 result = l[0]
 print(result)
 result = l[-2]
