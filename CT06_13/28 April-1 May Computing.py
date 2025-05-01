@@ -16,3 +16,5 @@ print(result)
 l = [2, 0, 2, 4]
 result = l[0]
 print(result)
+result = l[-2]
+print(result)
