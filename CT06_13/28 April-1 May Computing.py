@@ -13,5 +13,5 @@ result = ['Second'] + result
 result = ['Third'] + result
 print(result)
 
-x = int([20])
+x = [20]
 print(x + 24)
