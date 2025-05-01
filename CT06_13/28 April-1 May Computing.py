@@ -52,8 +52,3 @@ x = ['a', 'b', 'c']
 print(x[1])
 x[1] = 'z'
 
-x = 'abc'
-print(x[1])
-x[1] = 'z'
-# Strings cannot be changed, but you are forcing it to in the above line, which raises an error.
-
