@@ -54,3 +54,4 @@ x[1] = 'z'
 
 names_2023[0] = names_2023[:2] + names_2023[3:]
 print(names_2023)
+names_2023
