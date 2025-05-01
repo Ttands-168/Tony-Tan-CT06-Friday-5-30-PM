@@ -38,10 +38,8 @@ print(result)
 del l[0]
 del l[1]
 del result
-del l[3]
 del l[::2]
-del l[::-1]
-del l[::2][1]
+
 del l[:999]
 del l[:-999]
 del l[:]
