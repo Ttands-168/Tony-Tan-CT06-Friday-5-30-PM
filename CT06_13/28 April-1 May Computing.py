@@ -21,3 +21,4 @@ print(result)
 result = l[1:]
 print(result)
 result = l[1:-1]
+print(result)
