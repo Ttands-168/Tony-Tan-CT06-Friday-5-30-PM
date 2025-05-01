@@ -12,3 +12,6 @@ result = ['First'] + result
 result = ['Second'] + result
 result = ['Third'] + result
 print(result)
+
+x = [20]
+print(x + 2)
