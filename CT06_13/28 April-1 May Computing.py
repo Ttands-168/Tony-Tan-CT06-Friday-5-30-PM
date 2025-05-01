@@ -54,6 +54,6 @@ x[1] = 'z'
 
 names_2023 = names_2023[:2] + names_2023[3:]
 print(names_2023)
-names_2023.append(2, 'Beatrice') # This will raise an error because 2 arguments are given but append() accept
+names_2023.append(2, 'Beatrice') # This will raise an error because 2 arguments are given but append() accepts only 1 argument
 del names_2023[3]
 print(names_2023)
