@@ -26,7 +26,7 @@ while True:
 import time
 
 students = ["Aidan", "Alex", "Belinda", "Bernice", "Celeste Tan", "Celeste Kim", "Diana", "Ethan Tian", "Ethan Wong", "Felicia", "Glenda", "Kayson", "Koko", "Lisa", "Lucas", "Nancy", "Paulina", "Quincy", "Ravi", "Ryan", "Tony", "Vincent"]
-groceries = ["Banana", "Bacon", "Beef", "Chicken", "Cornflakes", "Dark Chocolate", "Eggs", "Falfel", "Honey", "Kale"]
+groceries = ["Banana", "Bacon", "Beef", "Chicken", "Cornflakes", "Dark Chocolate", "Eggs", "Falfel", "Floor Cleaners", "Honey", "Kale", "Kaya", "Lettuce", "Mac N Cheese", "Peanut Butter"]
 print(groceries)
 groceries.insert(3, "Bread")
 print(groceries)
@@ -41,3 +41,5 @@ for buying in groceries:
         print("I need 2 packets of chicken.")
     elif buying == "Eggs":
         print("I need 20 eggs.")
+    elif buying == "Peanut Butter":
+        print()
