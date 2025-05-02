@@ -48,7 +48,6 @@ for buying in groceries:
 
 groceries = []
 while True:
-    
     user_input = input("What items have you added to the basket? ")
     groceries.append(user_input)
     print(groceries)
