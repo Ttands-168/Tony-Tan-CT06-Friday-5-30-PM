@@ -53,3 +53,6 @@ while True:
     print(groceries)
     if groceries == "no more" or groceries == "end":
         break
+
+# Print the 14 times table
+start = 14
