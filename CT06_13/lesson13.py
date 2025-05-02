@@ -55,4 +55,4 @@ while True:
         break
 
 # Print the 14 times table
-start = 14
+number 
