@@ -48,7 +48,7 @@ for buying in groceries:
 
 while True:
     groceries = []
-    user_inpupt = input("What items have you added to the basket? ")
-    groceries.append()
+    user_input = input("What items have you added to the basket? ")
+    groceries.append(user_input)
     if groceries == "no more" or groceries == "end":
         break
