@@ -46,8 +46,9 @@ for buying in groceries:
     else:
         print("I need 1 " + buying + ".")
 
+groceries = []
 while True:
-    groceries = []
+    
     user_input = input("What items have you added to the basket? ")
     groceries.append(user_input)
     print(groceries)
