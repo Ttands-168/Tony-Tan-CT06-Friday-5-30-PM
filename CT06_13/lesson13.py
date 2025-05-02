@@ -36,4 +36,6 @@ print(groceries)
 for buying in groceries:
     time.sleep(1)
     if buying == "Bacon":
-        print()
+        print("Buy the less fatty bacon.")
+    elif buying == "Chicken":
+        print("I need ")
