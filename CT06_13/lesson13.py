@@ -49,10 +49,10 @@ for buying in groceries:
 groceries = []
 while True:
     user_input = input("What items have you added to the basket? ")
-    groceries.append(user_input)
-    print(groceries)
     if user_input == "no more" or user_input == "end":
         break
+    groceries.append(user_input)
+    print(groceries)
 
 # Print the 14 times table
 number = 14
