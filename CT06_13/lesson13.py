@@ -56,5 +56,6 @@ while True:
 
 # Print the 14 times table
 number = 14
-while start <= 168:
+while number <= 168:
+    print(number)
     
