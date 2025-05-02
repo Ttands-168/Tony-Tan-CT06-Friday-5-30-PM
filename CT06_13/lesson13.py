@@ -24,4 +24,4 @@ while True:
 
 # Start of Lesson 13
 students = ["Aidan", "Alex", "Belinda", "Bernice", "Celeste Tan", "Celeste Kim", "Diana", "Ethan Tian", "Ethan Wong", "Felicia", "Glenda", "Kayson", "Koko", "Lisa", "Lucas", "Nancy", "Paulina", "Quincy", "Ravi", "Ryan", "Tony", "Vincent"]
-groceries = ["Banana", "Corn", "Dark Chocolate", "Eggs", "Falfel"]
+groceries = ["Banana", "B" "Chicken" "Corn", "Dark Chocolate", "Eggs", "Falfel"]
