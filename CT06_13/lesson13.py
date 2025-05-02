@@ -34,4 +34,5 @@ del groceries[5]
 print(groceries)
 
 for buying in groceries:
+    time.sleep(1)
     print("Buy the best " + str(buying) + ".")
