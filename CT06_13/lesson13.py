@@ -19,3 +19,5 @@ while True:
     elif options == "exit":
         print("Thank you for using the bank.")
         break
+    else:
+        print("Sorry, I do not understand that option.")
