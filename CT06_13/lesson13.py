@@ -5,12 +5,12 @@ while True:
     if options == "deposit":
         deposit = float(input("How much money do you want to deposit? "))
         user_balance += deposit
-    if options == "withdraw":
+    elif options == "withdraw":
         withdraw = float(input("How much money do you want to withdraw? "))
         user_balance -= withdraw
         if user_balance < 0:
             print("You owe the bank $" + str(-user_balance) + ". If you do not pay by 7 days, you will get charged 21% compound interest daily.")
-    if options == "loan":
+    elif options == "loan":
         loan = float(input("How much loan do you want to take out? "))
         user_balance -= loan
         print("You are charged 5% compound interest a year.")
