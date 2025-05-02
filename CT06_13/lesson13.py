@@ -30,3 +30,6 @@ groceries.insert(3, "Bread")
 print(groceries)
 del groceries[5]
 print(groceries)
+
+for buying in groceries:
+    
