@@ -47,4 +47,4 @@ for buying in groceries:
         print("I need 1 " + buying + ".")
 
 while True:
-    g
+    groceries = []
