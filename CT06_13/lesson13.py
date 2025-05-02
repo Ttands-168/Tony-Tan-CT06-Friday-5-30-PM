@@ -21,3 +21,6 @@ while True:
         break
     else:
         print("Sorry, I do not understand that option.")
+
+# Start of Lesson 13
+students = ["Alex"]
