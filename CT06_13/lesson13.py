@@ -67,5 +67,5 @@ catalogue = ["Celeste", "Diana", "Ethan Tian", "Kamala", "Terence", "Othman Tian
 found = False
 dating = input("Who do you want to date? ")
 for item in catalogue:
-    if not found:
-        print("We don't have")
+    if item == dating:
+        print("")
