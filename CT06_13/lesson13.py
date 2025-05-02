@@ -67,7 +67,7 @@ catalogue = ["Celeste", "Diana", "Ethan Tian", "Kamala", "Terence", "Othman Tian
 found = False
 dating = input("Who do you want to date? ")
 for person in catalogue:
-    if dating == person:
+    if dating.lower() == person.lower():
         print("Yes, I found " + person + ". " + person + " is all yours now.")
         found = True
         catalogue.pop(dating)
