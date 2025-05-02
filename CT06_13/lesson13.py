@@ -48,3 +48,4 @@ for buying in groceries:
 
 while True:
     groceries = []
+    groceries = input("What items have you added to the basket>")
