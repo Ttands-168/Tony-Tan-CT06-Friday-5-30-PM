@@ -71,7 +71,7 @@ for person in catalogue:
     if dating.lower() == person.lower():
         print("Yes, I found " + person + ". " + person + " is all yours now.")
         found = True
-        catalogue.pop(dating)
+        catalogue.pop(str(dating))
         break
     if not found:
         print("Sorry, we don't have " + dating + ". Sorry.")
