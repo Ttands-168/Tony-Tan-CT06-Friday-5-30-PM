@@ -38,4 +38,5 @@ for buying in groceries:
     if buying == "Bacon":
         print("Buy the less fatty bacon.")
     elif buying == "Chicken":
-        print("I need ")
+        print("I need 2 packets of chicken.")
+    elif buying == "Eggs"
