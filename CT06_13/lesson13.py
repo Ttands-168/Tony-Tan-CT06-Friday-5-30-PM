@@ -50,5 +50,6 @@ while True:
     groceries = []
     user_input = input("What items have you added to the basket? ")
     groceries.append(user_input)
+    print("")
     if groceries == "no more" or groceries == "end":
         break
