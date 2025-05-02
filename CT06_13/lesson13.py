@@ -45,3 +45,6 @@ for buying in groceries:
         print("Buy the Skippy.")
     else:
         print("I need 1 " + buying + ".")
+
+while True:
+    g
