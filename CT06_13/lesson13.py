@@ -29,3 +29,4 @@ print(groceries)
 groceries.insert(2, "Bread")
 print(groceries)
 del groceries[5]
+print(groceries)
