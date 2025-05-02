@@ -51,7 +51,7 @@ while True:
     user_input = input("What items have you added to the basket? ")
     groceries.append(user_input)
     print(groceries)
-    if groceries == "no more" or groceries == "end":
+    if user_input == "no more" or user_input == "end":
         break
 
 # Print the 14 times table
