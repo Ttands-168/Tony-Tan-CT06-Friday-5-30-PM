@@ -55,4 +55,6 @@ while True:
         break
 
 # Print the 14 times table
-number 
+number = 14
+while start <= 168:
+    
