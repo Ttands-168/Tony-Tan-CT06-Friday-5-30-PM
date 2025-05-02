@@ -27,4 +27,5 @@ students = ["Aidan", "Alex", "Belinda", "Bernice", "Celeste Tan", "Celeste Kim",
 groceries = ["Banana", "Bacon", "Beef", "Chicken" "Cornflakes", "Dark Chocolate", "Eggs", "Falfel", "Honey", "Kale", "Whisky"]
 print(groceries)
 groceries.insert(2, "Bread")
+print(groceries)
 del groceries[5]
