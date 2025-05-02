@@ -23,4 +23,4 @@ while True:
         print("Sorry, I do not understand that option.")
 
 # Start of Lesson 13
-students = ["Alex", "Belinda", "Bernice", "Celeste Tan"]
+students = ["Alex", "Belinda", "Bernice", "Celeste Tan", ]
