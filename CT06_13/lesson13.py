@@ -63,4 +63,5 @@ while number <= 168:
 else:
     print("End")
 
-catalogue = ["Celeste", "Diana", "Ethan Tian", "Kamala", "Terence", "Othman Tian", "Kim Jisoo"]
+catalogue = ["Celeste", "Diana", "Ethan Tian", "Kamala", "Terence", "Othman Tian", "Kim"]
+found = False
