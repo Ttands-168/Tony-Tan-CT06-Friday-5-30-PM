@@ -42,4 +42,4 @@ for buying in groceries:
     elif buying == "Eggs":
         print("I need 20 eggs.")
     elif buying == "Peanut Butter":
-        print()
+        print("Buy the Skippy.")
