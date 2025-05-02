@@ -68,4 +68,4 @@ found = False
 dating = input("Who do you want to date? ")
 for item in catalogue:
     if item == dating:
-        print("")
+        print("Yes, I found " + item)
