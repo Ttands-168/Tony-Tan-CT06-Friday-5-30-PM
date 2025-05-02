@@ -32,4 +32,5 @@ del groceries[5]
 print(groceries)
 
 for buying in groceries:
+    
     print("Buy the best " + str(buying) + ".")
