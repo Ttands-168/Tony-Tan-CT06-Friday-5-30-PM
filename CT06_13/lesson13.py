@@ -63,3 +63,4 @@ while number <= 168:
 else:
     print("End")
 
+catalogue = ["Celeste"]
