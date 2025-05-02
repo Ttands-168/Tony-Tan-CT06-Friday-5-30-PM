@@ -23,6 +23,8 @@ while True:
         print("Sorry, I do not understand that option.")
 
 # Start of Lesson 13
+import time
+
 students = ["Aidan", "Alex", "Belinda", "Bernice", "Celeste Tan", "Celeste Kim", "Diana", "Ethan Tian", "Ethan Wong", "Felicia", "Glenda", "Kayson", "Koko", "Lisa", "Lucas", "Nancy", "Paulina", "Quincy", "Ravi", "Ryan", "Tony", "Vincent"]
 groceries = ["Banana", "Bacon", "Beef", "Chicken", "Cornflakes", "Dark Chocolate", "Eggs", "Falfel", "Honey", "Kale"]
 print(groceries)
@@ -32,5 +34,4 @@ del groceries[5]
 print(groceries)
 
 for buying in groceries:
-    
     print("Buy the best " + str(buying) + ".")
