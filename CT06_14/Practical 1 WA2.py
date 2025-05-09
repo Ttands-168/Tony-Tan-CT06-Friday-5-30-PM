@@ -8,3 +8,4 @@ while x <= 200:
 
 # Don't get hacked
 password = "superpass123"
+granted = False
