@@ -7,4 +7,4 @@ print(planets)
 # Elon Musk conquered Mars
 planets[3] = "Muskworld"
 print(planets)
-planets.pop()
+planets.pop("Uranus")
