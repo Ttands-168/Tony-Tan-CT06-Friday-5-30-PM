@@ -10,4 +10,6 @@ while x <= 200:
 password = "superpass123"
 granted = False
 while granted == False:
-    
+    user_input = input("Enter the password. ")
+    if user_input == password:
+        print("")
