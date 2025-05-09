@@ -1,3 +1,3 @@
 # Lists
 planets = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus"]
-print(planets[3])
+print(planets[2])
