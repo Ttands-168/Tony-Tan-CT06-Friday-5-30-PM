@@ -8,7 +8,7 @@ print(planets)
 planets[3] = "Muskworld"
 print(planets)
 # Uranus no longer became a planet
-planets.pop("Uranus")
+planets.pop(6)
 # For loops
 for a in planets:
     print(planets)
