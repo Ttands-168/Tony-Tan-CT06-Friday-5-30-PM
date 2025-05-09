@@ -7,3 +7,4 @@ while x <= 200:
     time.sleep(1)
 
 # Don't get hacked!
+password = ""
