@@ -10,3 +10,5 @@ print(planets)
 # Uranus no longer became a planet
 planets.pop("Uranus")
 # For loops
+for a in planets:
+    print(planets)
