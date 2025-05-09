@@ -6,4 +6,4 @@ planets.append("Neptune")
 print(planets)
 # Elon Musk conquered Mars
 planets[3] = "Muskworld"
-print()
+print(planets)
