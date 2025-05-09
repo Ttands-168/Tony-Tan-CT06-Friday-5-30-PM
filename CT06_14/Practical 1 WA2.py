@@ -5,6 +5,3 @@ while x <= 200:
     print(x)
     x += 10
     time.sleep(1)
-
-# Don't get hacked!
-password = ""
