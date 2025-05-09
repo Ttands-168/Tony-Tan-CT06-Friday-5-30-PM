@@ -1,2 +1,2 @@
 # Lists
-planets = ["mercury", ]
+planets = ["Mercury", "Venus"]
