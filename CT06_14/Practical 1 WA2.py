@@ -12,5 +12,5 @@ granted = False
 while granted == False:
     user_input = input("Enter the password. ")
     if user_input == password:
-        granted = True
         print("Access granted")
+    e
