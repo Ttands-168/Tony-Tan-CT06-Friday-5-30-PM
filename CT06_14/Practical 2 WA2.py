@@ -10,6 +10,6 @@ print(planets)
 # Uranus no longer became a planet
 planets.pop(6)
 # For loops
+a = 0
 for a in planets:
     print(planets[0])
-print(a)
