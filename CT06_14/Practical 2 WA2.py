@@ -13,3 +13,4 @@ planets.pop(6)
 a = 0
 for a in planets:
     print(planets)
+    a += 1
