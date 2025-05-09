@@ -12,3 +12,4 @@ planets.pop(6)
 # For loops
 for a in planets:
     print(planets[0])
+print(a)
