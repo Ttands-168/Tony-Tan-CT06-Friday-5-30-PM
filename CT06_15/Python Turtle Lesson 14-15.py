@@ -1,6 +1,6 @@
 import turtle
 import math
-Fiona = turtle
+Fiona = turtle.Turtle()
 Fiona.shape("turtle")
 Fiona.speed(10)
 for x in range(1, 3):
@@ -16,3 +16,4 @@ print(Celeste)
 
 del Celeste
 Tytus = turtle.forward()
+Tytus.
