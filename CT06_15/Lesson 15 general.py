@@ -7,4 +7,4 @@ kokowa_kochi_pia_sumida.pendown()
 kokowa_kochi_pia_sumida.setpos(7, -59)
 for Celeste in range(3):
     kokowa_kochi_pia_sumida.forward(80)
-    kokowa_kochi_pia_sumida.forward()
+    kokowa_kochi_pia_sumida.forward(3)
