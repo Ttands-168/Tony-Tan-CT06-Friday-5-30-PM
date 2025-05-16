@@ -12,3 +12,4 @@ for x in range(1, 3):
 
 del Fiona
 Celeste = math.degrees(90)
+print(Celeste)
