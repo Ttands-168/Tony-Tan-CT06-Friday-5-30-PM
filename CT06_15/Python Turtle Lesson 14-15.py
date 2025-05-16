@@ -15,5 +15,3 @@ Celeste = math.degrees(90)
 print(Celeste)
 
 del Celeste
-Tytus = turtle.forward()
-Tytus.
