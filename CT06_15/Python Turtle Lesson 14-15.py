@@ -4,6 +4,7 @@ Fiona = turtle.Turtle()
 Fiona.seth(0)
 Fiona.shape("turtle")
 Fiona.speed(10)
+Fiona.pendown()
 for x in range(1, 3):
     Fiona.forward(85)
     Fiona.right(90)
