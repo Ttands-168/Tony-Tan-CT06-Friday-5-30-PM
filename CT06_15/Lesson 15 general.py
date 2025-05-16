@@ -5,4 +5,5 @@ Gareth_Gan.forward(80)
 kokowa_kochi_pia_sumida = turtle.Turtle()
 kokowa_kochi_pia_sumida.pendown()
 kokowa_kochi_pia_sumida.setpos(7, -59)
-kokowa_kochi_pia_sumida.forward
+for Celeste in range(3):
+    kokowa_kochi_pia_sumida
