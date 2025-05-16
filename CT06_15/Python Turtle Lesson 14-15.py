@@ -1,6 +1,7 @@
 import turtle
 import math
 Fiona = turtle.Turtle()
+Fiona.seth()
 Fiona.shape("turtle")
 Fiona.speed(10)
 for x in range(1, 3):
