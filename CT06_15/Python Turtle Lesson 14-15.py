@@ -1,9 +1,9 @@
 import turtle
 Fiona = turtle
-turtle.shape("rabbit")
+Fiona.shape("rabbit")
 turtle.speed(10)
 for x in range(1, 3):
-    turtle.forward(85)
+    Fiona.forward(85)
     turtle.right(90)
     turtle.forward(20)
     turtle.left(90)
