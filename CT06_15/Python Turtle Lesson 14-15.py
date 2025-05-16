@@ -1,3 +1,3 @@
 import turtle
 
-turtle.shape
+turtle.shape("rabbit")
