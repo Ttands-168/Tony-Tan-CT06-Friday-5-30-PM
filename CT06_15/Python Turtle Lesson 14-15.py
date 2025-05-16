@@ -6,3 +6,5 @@ for x in range(1, 3):
     turtle.forward(85)
     turtle.right(90)
     turtle.forward(20)
+    turtle.left(90)
+    turtle.forward
