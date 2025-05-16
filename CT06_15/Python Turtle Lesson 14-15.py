@@ -9,3 +9,6 @@ for x in range(1, 3):
     Fiona.forward(20)
     Fiona.left(90)
     Fiona.forward(5)
+
+del Fiona
+Celeste
