@@ -1,2 +1,2 @@
 Gareth_Gan = turtle.Turtle()
-Gareth_Gan.forward
+Gareth_Gan.forward(80)
