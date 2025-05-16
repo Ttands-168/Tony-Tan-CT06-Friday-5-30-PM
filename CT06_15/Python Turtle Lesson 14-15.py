@@ -6,5 +6,5 @@ for x in range(1, 3):
     Fiona.forward(85)
     Fiona.right(90)
     Fiona.forward(20)
-    turtle.left(90)
-    turtle.forward
+    Fiona.left(90)
+    Fiona.forward
