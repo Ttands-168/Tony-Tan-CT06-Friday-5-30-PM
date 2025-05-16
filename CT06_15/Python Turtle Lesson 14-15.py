@@ -17,3 +17,5 @@ Celeste = math.degrees(90)
 print(Celeste)
 
 del Celeste # but Celeste only becomes a comment now.
+
+set tet
