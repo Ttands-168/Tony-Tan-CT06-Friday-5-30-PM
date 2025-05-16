@@ -1,4 +1,5 @@
 import turtle
+import math
 Fiona = turtle
 Fiona.shape("turtle")
 Fiona.speed(10)
