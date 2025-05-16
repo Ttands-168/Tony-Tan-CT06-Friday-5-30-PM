@@ -11,4 +11,4 @@ for x in range(1, 3):
     Fiona.forward(5)
 
 del Fiona
-Celeste = math.a
+Celeste = math.degrees(90)
