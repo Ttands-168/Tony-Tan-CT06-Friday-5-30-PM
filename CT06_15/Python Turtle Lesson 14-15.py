@@ -7,4 +7,4 @@ for x in range(1, 3):
     Fiona.right(90)
     Fiona.forward(20)
     Fiona.left(90)
-    Fiona.forward
+    Fiona.forward(5)
