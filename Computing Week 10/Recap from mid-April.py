@@ -20,5 +20,5 @@ y = value2
 # Use Celeste2024 instead of 2024Celeste as a variable name
 # Don't use country names as variable names unless they are relevant to the context
 India = 1,440,000,000  # Population of India
-China = 1,400,000,000  # Population of China
+China = 1,410,000,000  # Population of China
 USA = 340,000,000  # Population of the USA
