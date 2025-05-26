@@ -1,4 +1,5 @@
 import time
+import math
 # Celeste and celeste are case-sensitive
 # Use underscores instead of hyphens in variable names
 box_size = 80 # not size_correct?
@@ -22,3 +23,4 @@ y = value2
 India = 1,440,000,000  # Population of India
 China = 1,410,000,000  # Population of China
 United_States = 340,000,000  # Population of the United States 2025
+sin**2
