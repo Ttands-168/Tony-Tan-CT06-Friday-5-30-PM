@@ -43,3 +43,4 @@ ethanol = 46.07  # Molecular weight of ethanol
 sodium_methoxide = 54.02  # Molecular weight of sodium methoxide
 ammonia = 17.03  # Molecular weight of ammonia
 methyl_salicylate = 152.15  # Molecular weight of methyl salicylate
+dextrose = 180.16  # Molecular weight of dextrose
