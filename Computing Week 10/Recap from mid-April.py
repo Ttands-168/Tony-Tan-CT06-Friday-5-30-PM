@@ -9,3 +9,4 @@ while count > 0:
     print("Count is", count)
     count -= 1
     time.sleep(1)  # Sleep for 1 second to simulate a delay
+print("Countdown finished!")
