@@ -16,4 +16,4 @@ print("Countdown finished!")
 x = value1
 y = value2
 
-value1
+(value1 + value2)
