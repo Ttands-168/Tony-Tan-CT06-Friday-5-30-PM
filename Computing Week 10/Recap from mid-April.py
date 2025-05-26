@@ -45,4 +45,5 @@ sodium_ozonide = "NaO3"  # Chemical formula for sodium ozonide
 hydrogen_sulfate = "H2SO4"  # Chemical formula for hydrogen sulfate
 print("The aqueous form of hydrogen sulfate is sulfuric acid:", hydrogen_sulfate)  # Display the chemical formula for hydrogen sulfate
 print("The pH of sodium methoxide is about 12-14, making it a strong base.")  # Display the pH of sodium methoxide
-m
+methanol = "CH3OH"  # Chemical formula for methanol
+print("Methanol has no")
