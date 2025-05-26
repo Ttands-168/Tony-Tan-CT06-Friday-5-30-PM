@@ -13,3 +13,4 @@ print("Countdown finished!")
 # Use meaningful variable names instead of generic ones
 # Don't use exclamation marks unless NOT in a string
 
+x = value1
