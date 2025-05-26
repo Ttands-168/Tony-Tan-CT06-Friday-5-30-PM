@@ -42,3 +42,4 @@ sodium_hydroxide = "NaOH"  # Chemical formula for sodium hydroxide
 sodium_methoxide = "NaOCH3"  # Chemical formula for sodium methoxide
 sodium_ethoxide = "NaOC2H5"  # Chemical formula for sodium ethoxide
 sodium_ozonide = "NaO3"  # Chemical formula for sodium ozonide
+hydrogen_sulfate = "H2SO4"  # Chemical formula for hydrogen sulfate
