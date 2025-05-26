@@ -40,3 +40,4 @@ del poem
 
 methanol = 32.04  # Molecular weight of methanol
 ethanol = 46.07  # Molecular weight of ethanol
+sodium_methoxide = 54.02  # Molecular weight of sodium methoxide
