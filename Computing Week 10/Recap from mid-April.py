@@ -14,8 +14,8 @@ print("Countdown finished!")
 # Use meaningful variable names instead of generic ones
 # Don't use exclamation marks unless NOT in a string
 
-x = value1
-y = value2
+x = 5
+y = 3
 
 (value1 + value2) ** 2 = x**2 + 2*x*y + y**2 # This is an example of how you perform a function
 # Use Celeste2024 instead of 2024Celeste as a variable name
@@ -23,5 +23,5 @@ y = value2
 India = 1,440,000,000  # Population of India
 China = 1,410,000,000  # Population of China
 United_States = 340,000,000  # Population of the United States 2025
-theta = value1  # Use descriptive names for angles
+theta = x  # Use descriptive names for angles
 math.sin**2(theta) + math.cos**2(theta) == 1  # Pythagorean identity
