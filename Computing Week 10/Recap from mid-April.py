@@ -35,3 +35,7 @@ print("Hello, " + name + "!")  # Greet the user
 poem = input("What is inside your poem? ") # Curious about the user's poem
 print("Your poem is:", poem)  # Display the user's poem
 print("Oh, fish in the sea, so wild and free, I am Celeste, please listen to me!") # So beautiful a poem!
+
+del poem
+
+methanol 
