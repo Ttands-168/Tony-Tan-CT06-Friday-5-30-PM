@@ -39,3 +39,5 @@ print("Oh, fish in the sea, so wild and free, I am Celeste, please listen to me!
 del poem
 
 sodium_hydroxide = "NaOH"  # Chemical formula for sodium hydroxide
+sodium_methoxide = "NaOCH3"  # Chemical formula for sodium methoxide
+sodium 
