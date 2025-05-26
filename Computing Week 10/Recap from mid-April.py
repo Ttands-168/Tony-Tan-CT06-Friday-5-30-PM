@@ -32,5 +32,6 @@ del count # Some variables may cause confusion later
 name = input("What is your name? ") # Ask for the user's name
 print("Hello, " + name + "!")  # Greet the user
 # Use spacing inside an input string
-poem = input("What is inside your poem? ")
-print("Oh, fish in the sea, so wild and free, my wife has a wish, please listen to me!") # So beautiful a poem!
+poem = input("What is inside your poem? ") # Curious about the user's poem
+print("Your poem is:", poem)  # Display the user's poem
+print("Oh, fish in the sea, so wild and free, I am Celeste, please listen to me!") # So beautiful a poem!
