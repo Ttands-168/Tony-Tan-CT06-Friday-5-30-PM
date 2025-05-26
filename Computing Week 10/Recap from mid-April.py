@@ -46,4 +46,5 @@ hydrogen_sulfate = "H2SO4"  # Chemical formula for hydrogen sulfate
 print("The aqueous form of hydrogen sulfate is sulfuric acid:", hydrogen_sulfate)  # Display the chemical formula for hydrogen sulfate
 print("The pH of sodium methoxide is about 12-14, making it a strong base.")  # Display the pH of sodium methoxide
 methanol = "CH3OH"  # Chemical formula for methanol
-print("Methanol has no")
+print("Methanol has a pH of about 7, making it neutral:", methanol)  # Display the pH of methanol
+print("Sodium hydroxide is a strong base with a pH of about 14:", sodium_hydroxide)  # Display the pH of sodium hydroxide
