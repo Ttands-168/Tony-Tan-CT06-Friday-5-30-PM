@@ -27,4 +27,4 @@ theta = x  # Use descriptive names for angles
 math.sin**2(theta) + math.cos**2(theta) == 1  # Pythagorean identity
 
 '''
-'''
+These'''
