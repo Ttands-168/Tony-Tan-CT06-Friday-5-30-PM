@@ -51,3 +51,7 @@ print("Sodium hydroxide is a strong base with a pH of about 14:", sodium_hydroxi
 
 bone_age = float(input("What is your bone age? "))  # Ask for the user's bone age
 current_height = float(input("What is your current height in metres? "))  # Ask for the user's current height in meters
+if bone_age < 0 or current_height < 0:
+    print("Bone age and height must be positive numbers.")  # Check for valid input
+elif bone_age < 17.5:
+    print("You are still growing, your height is likely to increase.")
