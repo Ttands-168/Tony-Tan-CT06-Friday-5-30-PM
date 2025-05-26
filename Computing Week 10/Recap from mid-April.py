@@ -39,3 +39,4 @@ print("Oh, fish in the sea, so wild and free, I am Celeste, please listen to me!
 del poem
 
 methanol = 32.04  # Molecular weight of methanol
+ethanol = 46.07  # Molecular weight of ethanol
