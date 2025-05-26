@@ -21,4 +21,4 @@ y = value2
 # Don't use country names as variable names unless they are relevant to the context
 India = 1,440,000,000  # Population of India
 China = 1,410,000,000  # Population of China
-United_States = 340
+United_States = 340,000,000  # Population of the United States 2025
