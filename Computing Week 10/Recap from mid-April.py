@@ -14,3 +14,6 @@ print("Countdown finished!")
 # Don't use exclamation marks unless NOT in a string
 
 x = value1
+y = value2
+
+value1
