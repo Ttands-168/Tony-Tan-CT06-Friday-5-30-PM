@@ -14,7 +14,7 @@ print("Countdown finished!")
 # Use meaningful variable names instead of generic ones
 # Don't use exclamation marks unless NOT in a string
 
-x = value1
+x == value1
 y = value2
 
 (value1 + value2) ** 2 = x**2 + 2*x*y + y**2 # This is an example of how you perform a function
