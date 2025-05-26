@@ -35,4 +35,5 @@ print("Hello, " + name + "!")  # Greet the user
 poem = input("What is inside your poem? ")
 print("Oh, fish in the sea" \
 "so wild and free," \
-    )
+"I am Celeste," \
+"please listen to me.")
