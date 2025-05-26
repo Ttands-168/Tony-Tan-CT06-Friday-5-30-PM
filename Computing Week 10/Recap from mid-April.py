@@ -18,3 +18,4 @@ y = value2
 
 (value1 + value2) ** 2 = x**2 + 2*x*y + y**2 # This is an example of how you perform a function
 # Use Celeste2024 instead of 2024Celeste as a variable name
+# Don't use country names as variable names unless they are relevant to the context
