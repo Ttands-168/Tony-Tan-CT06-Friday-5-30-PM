@@ -49,4 +49,4 @@ methanol = "CH3OH"  # Chemical formula for methanol
 print("Methanol has a pH of about 7, making it neutral:", methanol)  # Display the pH of methanol
 print("Sodium hydroxide is a strong base with a pH of about 14:", sodium_hydroxide)  # Display the pH of sodium hydroxide
 
-mass = float()
+bone_age = float(input("What is your bone age? "))  # Ask for the user's bone age
