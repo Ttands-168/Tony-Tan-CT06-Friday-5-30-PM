@@ -50,3 +50,4 @@ print("Methanol has a pH of about 7, making it neutral:", methanol)  # Display t
 print("Sodium hydroxide is a strong base with a pH of about 14:", sodium_hydroxide)  # Display the pH of sodium hydroxide
 
 bone_age = float(input("What is your bone age? "))  # Ask for the user's bone age
+current_height = float(input("What is your current height in metres? "))  # Ask for the user's current height in meters
