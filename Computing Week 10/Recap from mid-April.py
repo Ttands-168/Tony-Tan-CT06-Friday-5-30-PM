@@ -22,4 +22,3 @@ y = value2
 India = 1,440,000,000  # Population of India
 China = 1,410,000,000  # Population of China
 United_States = 340,000,000  # Population of the United States 2025
-sin
