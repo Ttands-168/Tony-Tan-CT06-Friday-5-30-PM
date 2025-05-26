@@ -30,4 +30,4 @@ class_1940 = False # Because Germany was depressed in 1940
 Germany = 79,000,000  # Population of Germany in 1940
 
 del count # Some variables may cause confusion later
-name = input("")
+name = input("What is your name? ") # 
