@@ -10,3 +10,4 @@ while count > 0:
     count -= 1
     time.sleep(1)  # Sleep for 1 second to simulate a delay
 print("Countdown finished!")
+# Use meaningful variable names instead of generic ones
