@@ -12,4 +12,3 @@ while count > 0:
 print("Countdown finished!")
 # Use meaningful variable names instead of generic ones
 
-if 
