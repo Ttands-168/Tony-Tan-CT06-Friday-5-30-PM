@@ -55,3 +55,4 @@ if bone_age < 0 or current_height < 0:
     print("Bone age and height must be positive numbers.")  # Check for valid input
 elif bone_age < 17.5:
     print("You are still growing, your height is likely to increase.")
+elif bone_age < 20:
