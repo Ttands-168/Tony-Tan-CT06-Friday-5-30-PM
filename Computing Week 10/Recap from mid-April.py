@@ -24,4 +24,4 @@ India = 1,440,000,000  # Population of India
 China = 1,410,000,000  # Population of China
 United_States = 340,000,000  # Population of the United States 2025
 theta = value1  # Use descriptive names for angles
-math.sin**2(value1) + math.cos**2(value1) == 1  # Pythagorean identity
+math.sin**2(theta) + math.cos**2(theta) == 1  # Pythagorean identity
