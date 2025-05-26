@@ -27,3 +27,4 @@ theta = x  # Use descriptive names for angles
 math.sin**2(theta) + math.cos**2(theta) == 1  # Pythagorean identity
 
 class_1940 = False # Because Germany was depressed in 1940
+Germany = 79_000_000  # Population of Germany in 1940
