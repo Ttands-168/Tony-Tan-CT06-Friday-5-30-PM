@@ -56,4 +56,4 @@ if bone_age < 0 or current_height < 0:
 if bone_age <= 14:
     print("You are growing bigger and taller!")  # If bone age is less than or equal to 14, the user is growing
 elif bone_age <= 16:
-    print("You likely ended your peak-growth period. You will likely grow by 3cm this year.")  # If bone age is less than or equal to 16, the user has likely ended their peak-growth period
+    print("You will grow by about 3-5 cm in the next year.")  # If bone age is less than or equal to 16, the user will grow by 3-5 cm
