@@ -69,4 +69,8 @@ if current_height < 1.55 and bone_age > 16:
 elif current_height < 1.65 and bone_age > 16:
     print("You are average height for your age.")
 elif current_height < 1.65 and bone_age <= 15:
-    print("")
+    print("You are still growing taller!")  # If current height is less than 1.65 meters and bone age is less than or equal to 15, the user is still growing taller
+elif current_height < 1.75 and bone_age <= 14:
+    print("You are growing taller!")
+elif current_height < 1.85 and bone_age <= 13:
+    
