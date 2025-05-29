@@ -56,7 +56,7 @@ if bone_age < 0 or current_height < 0:
 if bone_age <= 1:
     print("You will grow by 20cm from now until you are 1 year old.")  # If bone age is less than or equal to 1, the user will grow by 20 cm
 elif bone_age <= 11:
-    print("You will grow by about 5-10 cm in the next year.") # 
+    print("You will grow by about 5-10 cm in the next year.") # Pre-puberty growth
 if bone_age <= 14:
     print("You are growing bigger and taller!")  # If bone age is less than or equal to 14, the user is growing
 elif bone_age <= 16:
