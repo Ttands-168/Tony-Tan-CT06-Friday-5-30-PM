@@ -53,3 +53,5 @@ bone_age = float(input("What is your bone age? "))  # Ask for the user's bone ag
 current_height = float(input("What is your current height in metres? "))  # Ask for the user's current height in meters
 if bone_age < 0 or current_height < 0:
     print("Bone age and height must be positive numbers.")  # Check for valid input
+if bone_age >= 16:
+    print("You ")
