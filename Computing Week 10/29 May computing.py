@@ -1,4 +1,5 @@
 Bala2024 = {}
 Bala2024['dog'] = 'woof'
 Bala2024['cat'] = 'meow'
-result['bird'] = 'tweet'
+Bala2024['bird'] = 'tweet'
+print
