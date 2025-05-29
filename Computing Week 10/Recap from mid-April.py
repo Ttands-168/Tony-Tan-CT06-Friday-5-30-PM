@@ -66,3 +66,7 @@ else:
 # Use descriptive variable names for bone age and height
 if current_height < 1.55 and bone_age > 16:
     print("You are short for your age.")  # If current height is less than 1.55 meters and bone age is greater than 16, the user is short for their age
+elif current_height < 1.65 and bone_age > 16:
+    print("You are average height for your age.")
+elif current_height < 1.65 and bone_age <= 15:
+    print("")
