@@ -1,4 +1,4 @@
 Bala2024 = {}
-result['dog'] = 'woof'
-result['cat'] = 'meow'
+Bala2024['dog'] = 'woof'
+Bala2024['cat'] = 'meow'
 result['bird'] = 'tweet'
