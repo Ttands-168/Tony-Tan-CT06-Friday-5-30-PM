@@ -57,3 +57,5 @@ if bone_age <= 14:
     print("You are growing bigger and taller!")  # If bone age is less than or equal to 14, the user is growing
 elif bone_age <= 16:
     print("You will grow by about 3-5 cm in the next year.")  # If bone age is less than or equal to 16, the user will grow by 3-5 cm
+else:
+    print("You are le")
