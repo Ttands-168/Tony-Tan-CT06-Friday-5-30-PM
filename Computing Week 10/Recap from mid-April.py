@@ -76,4 +76,5 @@ elif current_height < 1.85 and bone_age <= 13:
     print("Wow, you are on track to be 2+ metres tall!")  # If current height is less than 1.85 meters and bone age is less than or equal to 13, the user is on track to be 2+ meters tall
 elif current_height > 1.7 and bone_age > 16:
     print("You are tall for your age.")
-    
+elif current_height > 1.8 and bone_age > 16:
+    print("You are very tall for your age.")
