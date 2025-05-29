@@ -1,2 +1,2 @@
 Bala2024 = {}
-result
+result['dog'] = 'woof'
