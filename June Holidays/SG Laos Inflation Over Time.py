@@ -1,5 +1,5 @@
+im
 import matplotlib.pyplot as plt
-matplotlib.pyplot.use('Agg')  # Use a non-interactive backend for saving plots
 import numpy as np
 
 # Years from 2038 to 2046
