@@ -16,8 +16,8 @@ inflation_laos_b = [6.0, 5.2, 4.4, 3.9, 3.2, 2.7, 2.4, 2.0, 1.5]
 
 # Plotting
 plt.figure(figsize=(12, 6))
-plt.plot(years, inflation_sg_a, label="Singapore - Scenario A", linestyle='-', marker='o', color='red')
-plt.plot(years, inflation_laos_a, label="Laos - Scenario A", linestyle='--', marker='o', color='orange')
+plt.plot(years, inflation_sg_a, label="Singapore - Scenario A", linestyle='-', marker='o', color='tomato')
+plt.plot(years, inflation_laos_a, label="Laos - Scenario A", linestyle='--', marker='o', color='hotpink')
 plt.plot(years, inflation_sg_b, label="Singapore - Scenario B", linestyle='-', marker='s', color='blue')
 plt.plot(years, inflation_laos_b, label="Laos - Scenario B", linestyle='--', marker='s', color='green')
 
