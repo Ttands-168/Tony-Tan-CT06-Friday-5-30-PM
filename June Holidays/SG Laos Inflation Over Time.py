@@ -34,3 +34,4 @@ plt.show()
 # The inflation rates are hypothetical and illustrate how different economic scenarios can affect inflation trends.
 # The plot is saved as 'inflation_paths_sg_laos.png'.
 # This is a comment. It will not print(anything).
+print("This is not a comment.")
