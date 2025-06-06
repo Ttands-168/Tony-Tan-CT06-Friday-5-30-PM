@@ -32,3 +32,5 @@ plt.show()
 
 # This code generates a plot comparing the projected inflation rates for Singapore and Laos under two different scenarios from 2038 to 2046.
 # The inflation rates are hypothetical and illustrate how different economic scenarios can affect inflation trends.
+# The plot is saved as 'inflation_paths_sg_laos.png'.
+# This is a comment
