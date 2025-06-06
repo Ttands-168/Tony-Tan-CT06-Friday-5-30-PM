@@ -35,4 +35,4 @@ plt.show()
 # The plot is saved as 'inflation_paths_sg_laos.png'.
 # This is a comment. It will not print(anything).
 print("This is not a comment.") # Although this is
-print("This chart shows the inflation trends for Singapore and Laos under two scenarios from 2038 to 2046.") # This is a comment.
+print("This chart shows the inflation trends for Singapore and Laos under two scenarios from 2038 to 2046.")
